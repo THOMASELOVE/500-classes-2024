@@ -1,5 +1,9 @@
 # 500 Class 01: 2024-01-18
 
+# 500 Class 05: 2024-02-15
+
+Today's class begins at 8:30 AM in WRB 1217.
+
 [Main Website](https://thomaselove.github.io/500-2024/) | [Calendar](https://thomaselove.github.io/500-2024/calendar.html) | [Syllabus](https://thomaselove.github.io/500-syllabus-2024) | [Canvas](https://canvas.case.edu) | [Data/Code](https://github.com/THOMASELOVE/500-data) |  [Sources](https://github.com/THOMASELOVE/500-sources) | For help, email
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `500-help` at `case` dot `edu`
@@ -16,9 +20,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 - Office Hours: By appointment, after class, or via email. Email address for the class is **500-help at case dot edu**.
 - Teaching Assistant: Leila Hojat
 
-Need help? Contact us with your questions. I want to hear from you!
+Need help? Contact us with your questions. We want to hear from you!
 
-![](figs/phd_staring.PNG)
+## More to come.
 
 ## Learning about Quarto (and making the switch from R Markdown)
 
