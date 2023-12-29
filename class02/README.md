@@ -8,5 +8,5 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 
 Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-02 | 2023-01-25 | **[Slides 02](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides02.pdf)** | **[Code 02](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides02.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+02 | 2024-01-25 | **[Slides 02](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides02.pdf)** | **[Code 02](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides02.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
