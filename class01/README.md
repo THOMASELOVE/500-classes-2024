@@ -20,7 +20,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 Need help? Contact us with your questions. We want to hear from you!
 
-## More to come.
+## Shared Google Drive
+
+You should have access to the 500 Spring 2024 Dr. Love and Students shared drive. Find it by logging into Google via CWRU and then visiting the Shared Drives section under Google Drive. Let us know at **500-help at case dot edu** if you have any problems.
 
 ## Learning about Quarto (and making the switch from R Markdown)
 
