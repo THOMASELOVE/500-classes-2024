@@ -1,6 +1,6 @@
 # 500 Class 01: 2024-01-18
 
-Today's class begins at 8:30 AM in WRB 1217.
+Today's class begins at 8:30 AM in Wolstein Research Building, room 1217.
 
 [Main Website](https://thomaselove.github.io/500-2024/) | [Calendar](https://thomaselove.github.io/500-2024/calendar.html) | [Syllabus](https://thomaselove.github.io/500-syllabus-2024) | [Canvas](https://canvas.case.edu) | [Data/Code](https://github.com/THOMASELOVE/500-data) |  [Sources](https://github.com/THOMASELOVE/500-sources) | For help, email
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
@@ -16,13 +16,30 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 - Instructor: Thomas E. Love, Ph.D., Professor of Medicine and of Population and Quantitative Health Sciences, CWRU.
 - Office Hours: By appointment, after class, or via email. Email address for the class is **500-help at case dot edu**.
-- Teaching Assistant: Leila Hojat. Her office hours start next Monday, and are held via Zoom on Mondays and Wednesdays 5 - 6 PM.
+- Teaching Assistant: Leila Hojat. Her office hours start next Monday, and are held via Zoom on Mondays and Wednesdays 5 - 6 PM. Details on Zoom office hours are provided in our **Shared Google Drive**.
 
 Need help? Contact us with your questions. We want to hear from you!
 
 ## Shared Google Drive
 
-You should have access to the 500 Spring 2024 Dr. Love and Students shared drive. Find it by logging into Google via CWRU and then visiting the Shared Drives section under Google Drive. Let us know at **500-help at case dot edu** if you have any problems.
+You should have access to the **500 Spring 2024 Dr. Love and Students** shared drive. Find it by logging into Google via CWRU and then visiting the Shared Drives section under Google Drive. Let us know at **500-help at case dot edu** if you have any problems.
+
+## References from Today's Class
+
+Articles posted on our [Sources page](https://github.com/THOMASELOVE/500-sources)
+
+- Concato John et al. 2000 [Randomized, Controlled Trials, Observational Studies and the Hierarchy of Research Designs](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Concato%20Shah%20and%20Horwitz%202000%20OS%20vs%20RCTs%20and%20Hierarchy%20of%20Research%20Design.pdf) *New England Journal of Medicine*
+- Gum Patricia A Thamailarasan Maran Watanabe Junko et al. 2001 [Aspirin Use and All-Cause Mortality among Patients being Evaluated for Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Gum%202001%20JAMA%20Aspirin%20Use%20Propensity%20Analysis.pdf) *JAMA* 2001 286(10): 1187-1194.
+- Smith Gordon C S and Pell Jill P 2003 [Parachute use to prevent death and major trauma related to gravitational challenge: Systematic review of randomized controlled trials](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Smith%20and%20Pell%202003%20BMJ%20Parachutes.pdf) *The BMJ*
+- STROBE Guidelines are available at <https://www.strobe-statement.org/>.
+
+You might be interested as well in [The Book of Why](http://bayes.cs.ucla.edu/WHY/) by Judea Pearl and Dana Mackenzie in 2018.
+
+Other articles I refer to in the slides, if you're interested in tracking down further details...
+
+- Multiple risk factor intervention trial. Risk factor changes and mortality results. Multiple Risk Factor Intervention Trial Research Group. *JAMA* 1982 Sep 24;248(12):1465-77. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7050440/)
+- [USPSTF Grade Definitions](https://www.uspreventiveservicestaskforce.org/Page/Name/grade-definitions) including links to definitions prior to July 2012.
+- Veterans Administration Coronary Artery Bypass Surgery Cooperative Study Group. Eleven-year survival in the Veterans Administration randomized trial of coronary bypass surgery for stable angina. *N Engl J Med* 1984 Nov 22;311(21):1333-9. doi: 10.1056/NEJM198411223112102. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6333636/)
 
 ## Learning about Quarto (and making the switch from R Markdown)
 
@@ -50,27 +67,9 @@ Here are some suggestions:
     - Mine Çetinkaya-Rundel: [Hello, Quarto!](https://www.youtube.com/watch?v=YVa5cdkypbw)
     - Ted Laderas on [Quarto/R Markdown: What's Different?](https://www.youtube.com/watch?v=xC6I5OVOnKI) (28 minutes)
 
-## References from Today's Class
-
-Articles posted on our [Sources page](https://github.com/THOMASELOVE/500-sources)
-
-- Concato John et al. 2000 [Randomized, Controlled Trials, Observational Studies and the Hierarchy of Research Designs](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Concato%20Shah%20and%20Horwitz%202000%20OS%20vs%20RCTs%20and%20Hierarchy%20of%20Research%20Design.pdf) *New England Journal of Medicine*
-- Gum Patricia A Thamailarasan Maran Watanabe Junko et al. 2001 [Aspirin Use and All-Cause Mortality among Patients being Evaluated for Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Gum%202001%20JAMA%20Aspirin%20Use%20Propensity%20Analysis.pdf) *JAMA* 2001 286(10): 1187-1194.
-- Smith Gordon C S and Pell Jill P 2003 [Parachute use to prevent death and major trauma related to gravitational challenge: Systematic review of randomized controlled trials](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Smith%20and%20Pell%202003%20BMJ%20Parachutes.pdf) *The BMJ*
-- STROBE Guidelines are available at <https://www.strobe-statement.org/>.
-
-You might be interested as well in [The Book of Why](http://bayes.cs.ucla.edu/WHY/) by Judea Pearl and Dana Mackenzie in 2018.
-
-Other articles I refer to in the slides, if you're interested in tracking down further details...
-
-- Multiple risk factor intervention trial. Risk factor changes and mortality results. Multiple Risk Factor Intervention Trial Research Group. *JAMA* 1982 Sep 24;248(12):1465-77. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7050440/)
-- [USPSTF Grade Definitions](https://www.uspreventiveservicestaskforce.org/Page/Name/grade-definitions) including links to definitions prior to July 2012.
-- Veterans Administration Coronary Artery Bypass Surgery Cooperative Study Group. Eleven-year survival in the Veterans Administration randomized trial of coronary bypass surgery for stable angina. *N Engl J Med* 1984 Nov 22;311(21):1333-9. doi: 10.1056/NEJM198411223112102. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6333636/)
-
 ## Notes from the 431-432 Sequence
 
 If you need them, the [431 Notes from Fall 2023 are here](https://thomaselove.github.io/431-notes/), and the [432 Notes for Spring 2024 are here](https://thomaselove.github.io/432-notes/).
-
 
 ## One Last Thing
 
