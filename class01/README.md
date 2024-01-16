@@ -71,6 +71,22 @@ Here are some suggestions:
 
 If you need them, the [431 Notes from Fall 2023 are here](https://thomaselove.github.io/431-notes/), and the [432 Notes for Spring 2024 are here](https://thomaselove.github.io/432-notes/).
 
+---
+
+## What Should I Do Before Our Next Class?
+
+1. Be sure you are registered with SIS for the course. My list of registrants [is posted here](registered.qmd).
+2. Please complete our [Welcome to 500 survey](https://bit.ly/500-welcome-2024). You’ll need to log into Google via CWRU to access the survey, which should take about 10 minutes to complete. Please complete the survey as soon as possible, and thanks to those of you who've already done this.
+3. Download the software. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details [are available here](https://thomaselove.github.io/500-2024/software.html).
+4. Work through [Lab 0](https://thomaselove.github.io/500-2024/lab0.html). Note that there's nothing to turn in here. If you like, you could also get started on [Lab 1](https://thomaselove.github.io/500-2024/lab1.html) which is due on 2024-02-01.
+5. Buy the book. During the course, we will read Paul Rosenbaum’s book **Causal Inference**, which is available as an e-book or in paperback for under $15. Please read through Chapter 3 before our next class on 2024-01-25, if you can.
+6. Read the other things I've asked you to read in [the Course Calendar](https://thomaselove.github.io/500-2024/calendar.html).
+7. Make sure you familiarize yourself with everything [on our website](https://thomaselove.github.io/500-2024/).
+
+If you have questions, visit Office Hours on Monday or Wednesday at 5 PM, or email us at **500-help at case dot edu**.
+
+---
+
 ## One Last Thing
 
 I am in a musical called "Curtains" that runs on the weekends in February starting February 2 and running through February 24 at [Hudson Players](https://www.hudsonplayers.com/now-playing), in Hudson, Ohio. I'm always delighted to see anyone I know at any show I do. Please do come if you are interested, and if you are comfortable being around people who are unmasked. 
