@@ -17,6 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 - Instructor: Thomas E. Love, Ph.D., Professor of Medicine and of Population and Quantitative Health Sciences, CWRU.
 - Office Hours: By appointment, after class, or via email. Email address for the class is **500-help at case dot edu**.
 - Teaching Assistant: Leila Hojat. Her office hours start next Monday, and are held via Zoom on Mondays and Wednesdays 5 - 6 PM. Details on Zoom office hours are provided in our **Shared Google Drive**.
+- Be sure you are registered with SIS for the course. My list of registrants [is posted here](registered.md).
 
 Need help? Contact us with your questions. We want to hear from you!
 
@@ -75,7 +76,7 @@ If you need them, the [431 Notes from Fall 2023 are here](https://thomaselove.gi
 
 ## What Should I Do Before Our Next Class?
 
-1. Be sure you are registered with SIS for the course. My list of registrants [is posted here](registered.qmd).
+1. Be sure you are registered with SIS for the course. My list of registrants [is posted here](registered.md).
 2. Please complete our [Welcome to 500 survey](https://bit.ly/500-welcome-2024). You’ll need to log into Google via CWRU to access the survey, which should take about 10 minutes to complete. Please complete the survey as soon as possible, and thanks to those of you who've already done this.
 3. Download the software. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details [are available here](https://thomaselove.github.io/500-2024/software.html).
 4. Work through [Lab 0](https://thomaselove.github.io/500-2024/lab0.html). Note that there's nothing to turn in here. If you like, you could also get started on [Lab 1](https://thomaselove.github.io/500-2024/lab1.html) which is due on 2024-02-01.
