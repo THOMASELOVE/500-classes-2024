@@ -1,24 +1,24 @@
 ## Students Registered in 500 for Spring 2024
 
-as of `2024-01-17 at 10:50 AM`
+as of `2024-01-18 at 8 AM`
 
 - Sara Alqahtani
 - Naji Ayyash
 - John Barron
 - Seth Bauer
-- Christopher Benson
-- Zhengxi Chen
-- Siddharth Dugar
+- Christopher Benson (Chris)
+- Zhengxi Chen (Jesse)
+- Siddharth Dugar (Sid)
 - Ava Fan
 - Lent Harri III Mantshonyane III
 - Marie Masotya
 - Lydia Mitchell
-- Hala Nas
-- Anna Nazarenko
-- Anthony Orsino
+- Hala Nas (Hla)
+- Anna Nazarenko (Anya)
+- Anthony Orsino (Orsino)
 - Aman Pande
 - Justin Robinson
-- Samuel Rodgers-Melnick
+- Samuel Rodgers-Melnick (Sam)
 - Akhil Sarangadharan Geetha Kumari
 - Sriram Satyavolu
 - Karlo Toljan
