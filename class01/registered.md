@@ -1,6 +1,6 @@
 ## Students Registered in 500 for Spring 2024
 
-as of `2024-01-18 at 8 AM`
+as of `2024-01-21 at 9 AM`
 
 - Sara Alqahtani
 - Naji Ayyash
@@ -19,6 +19,7 @@ as of `2024-01-18 at 8 AM`
 - Aman Pande
 - Justin Robinson
 - Samuel Rodgers-Melnick (Sam)
+- Miza Salim Hammoud
 - Akhil Sarangadharan Geetha Kumari
 - Sriram Satyavolu
 - Karlo Toljan
