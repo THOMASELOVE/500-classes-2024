@@ -22,7 +22,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 4. Schematics for other Propensity Methods in “simple” studies
 5. An Introduction to The SUPPORT / Right Heart Catheterization Study
 6. Lab 1 (How did it go?)
-    - The Answer Sketch for Lab 1 is posted to our Shared Google Drive.
+    - The Answer Sketch for Lab 1 will be posted to our Shared Google Drive.
+  
+## Using R to do propensity score analysis
+
+The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) and the [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) will be the focus of Class 04, next week.
 
 ## References from Today's Class
 
