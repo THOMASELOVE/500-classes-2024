@@ -24,10 +24,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 6. Lab 1 (How did it go?)
     - The Answer Sketch for Lab 1 will be posted to our Shared Google Drive.
   
-## Using R to do propensity score analysis
-
-The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) and the [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) will be the focus of Class 04, next week.
-
 ## References from Today's Class
 
 References posted on our [Sources page](https://github.com/THOMASELOVE/500-classes-2023/tree/main/sources)
@@ -61,6 +57,10 @@ Other references in the slides, if you're interested in tracking down further de
     - Here are the R packages I used to build my answer sketch for Lab 2, not counting the xfun package which I used only to present the session information.
         - broom, janitor, mosaic, naniar, tableone, and tidyverse.
 3. Get started (if you haven't already) on your first draft of the [Project Proposal](https://thomaselove.github.io/500-2024/proj500.html) (due 2-20)
+
+## Using R to do propensity score analysis
+
+The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) and the [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) will be the focus of Class 04, next week.
 
 ## And, finally...
 
