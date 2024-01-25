@@ -12,13 +12,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 04 | 2024-02-08 | **[Slides 04](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides04.pdf)** | **[Code 04](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy): Using R to do propensity score matching, subclassification, weighting and adjustment
+## Examples using Quarto and R to do propensity analyses.
 
-## The [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) is also ready for you to view/use
+- The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy): Using R to do propensity score matching, subclassification, weighting and adjustment
 
-In addition to [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy), we have another worked example in R using Quarto, this one built by Wyatt P. Bensken and Harry Persaud, but based on real data. 
-
-- It's called [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) and we'll look it over in class either today or next Thursday, briefly.
+We also have another worked example in R using Quarto, this one built by Wyatt P. Bensken and Harry Persaud, but based on real data. It's called [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) and we'll look it over in class either today or next Thursday, depending on how much time the toy example takes.
 
 ## What Should I Be Working On?
 
