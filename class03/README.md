@@ -12,6 +12,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 03 | 2024-02-01 | **[Slides 03](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides03.pdf)** | **[Code 03](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides03.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/confounding_variables.png) from https://xkcd.com/2560
+
 ## Today's Agenda
 
 1. Estimating the Propensity Score (Building the Propensity Model)
