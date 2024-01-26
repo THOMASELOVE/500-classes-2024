@@ -52,7 +52,7 @@ Other references in the slides, if you're interested in tracking down further de
 
 ## What should I be working on?
 
-1. Your [OSIA selection](https://thomaselove.github.io/500-2024/osia.html) (due Tuesday 2024-02-06 at 9 AM)
+1. Your [OSIA selection](https://thomaselove.github.io/500-2024/osia.html) (due Tuesday 2024-02-06 at 9 AM) - accepted claims [are posted here](https://github.com/THOMASELOVE/500-osia-2024/tree/main).
 2. [Lab 2](https://thomaselove.github.io/500-2024/lab2.html), due 2024-02-15 at 9 AM to Canvas.
     - Here are the R packages I used to build my answer sketch for Lab 2, not counting the xfun package which I used only to present the session information.
         - broom, janitor, mosaic, naniar, tableone, and tidyverse.
