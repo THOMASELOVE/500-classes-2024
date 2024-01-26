@@ -12,6 +12,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 04 | 2024-02-08 | **[Slides 04](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides04.pdf)** | **[Code 04](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## OSIA Claims
+
+These were due on Tuesday 2024-02-06 at 9 AM, so I hope I have them all by now. I'll have some comments about the accepted papers in class today. OSIA claims are found at <https://github.com/THOMASELOVE/500-osia-2024>, and our first OSIA presentations will be on 2024-03-21.
+
 ## Examples using Quarto and R to do propensity analyses.
 
 - The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy): Using R to do propensity score matching, subclassification, weighting and adjustment
@@ -20,6 +24,6 @@ We also have another worked example in R using Quarto, this one built by Wyatt P
 
 ## What Should I Be Working On?
 
-1. The current OSIA claims can be found at <https://github.com/THOMASELOVE/500-osia-2024>. 
-2. [Lab 2](https://thomaselove.github.io/500-2024/lab2.html) is due 2024-02-15 at 9 AM and will be your first good chance to practice what we'll see in the toy example today.
-3. [Project Proposal (draft 1)](https://thomaselove.github.io/500-2024/proj500.html) due 2024-02-20 at 9 AM.
+1. [Lab 2](https://thomaselove.github.io/500-2024/lab2.html) is due 2024-02-15 at 9 AM and will be your first good chance to practice what we'll see in the toy example today.
+2. Read Chapter 5 of *Causal Inference* (Sensitivity to Unmeasured Covariates) before our next class, as well as skimming the Ahmed 2012 and Hirano and Imbens 2001 papers from [our Sources page](https://github.com/THOMASELOVE/500-sources).
+3. [Project Proposal (draft 1)](https://thomaselove.github.io/500-2024/proj500.html) is due 2024-02-20 at 9 AM.
