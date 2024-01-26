@@ -25,7 +25,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Using R to do propensity score analysis
 
-The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) and the [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) will be the focus of Class 04, next week.
+The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) and the [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) will be the focus of Class 04, next week, but you are encouraged to peruse them in advance.
 
 ## Today's Agenda
 
