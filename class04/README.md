@@ -27,3 +27,8 @@ We also have another worked example in R using Quarto, this one built by Wyatt P
 1. [Lab 2](https://thomaselove.github.io/500-2024/lab2.html) is due 2024-02-15 at 9 AM and will be your first good chance to practice what we'll see in the toy example today.
 2. Read Chapter 5 of *Causal Inference* (Sensitivity to Unmeasured Covariates) before our next class, as well as skimming the Ahmed 2012 and Hirano and Imbens 2001 papers from [our Sources page](https://github.com/THOMASELOVE/500-sources).
 3. [Project Proposal (draft 1)](https://thomaselove.github.io/500-2024/proj500.html) is due 2024-02-20 at 9 AM.
+
+# Self-Promotion
+
+Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. If you'd like to go, please visit <https://www.hudsonplayers.com/>. I will not be in the show February 2-3 but will be in the show February 9-11, 16-18, 23-24 on Friday and Saturday evenings, but the two Sunday matinees are already sold out.
+
