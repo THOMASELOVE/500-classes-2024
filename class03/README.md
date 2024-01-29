@@ -66,4 +66,4 @@ Other references in the slides, if you're interested in tracking down further de
 
 ## And, finally...
 
-Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. The show opens tomorrow night. If you'd like to go, please visit <https://www.hudsonplayers.com/>. The show runs February 2-3, 9-11, 16-18, 23-24 on Friday and Saturday evenings with two Sunday matinees (onr of which is already sold out.)
+Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. If you'd like to go, please visit <https://www.hudsonplayers.com/>. I will not be in the show February 2-3 but will be in the show February 9-11, 16-18, 23-24 on Friday and Saturday evenings, but the two Sunday matinees are already sold out.
