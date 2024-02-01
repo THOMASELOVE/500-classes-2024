@@ -25,8 +25,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. Your [OSIA selection](https://thomaselove.github.io/500-2024/osia.html) (due Tuesday 2024-02-06 at 9 AM) - accepted claims [are posted here](https://github.com/THOMASELOVE/500-osia-2024/tree/main).
 2. Readings for Class 4: Skim Austin and Mamdani (2006), Normand (2001) and D'Agostino, Jr. (1998) all on our [Sources](https://github.com/THOMASELOVE/500-sources) page.
 3. [Lab 2](https://thomaselove.github.io/500-2024/lab2.html), due 2024-02-15 at 9 AM to Canvas.
-    - Here are the R packages I used to build my answer sketch for Lab 2, not counting the xfun package which I used only to present the session information.
-        - broom, janitor, mosaic, naniar, tableone, and tidyverse.
+    - Here are the R packages I used to build my answer sketch for Lab 2, not counting the xfun package which I used only to present the session information. You don't need to use all of these:
+        - broom, janitor, mosaic, naniar, tableone, Hmisc, arm, Matching, cobalt, survival, and tidyverse.
 4. Get started (if you haven't already) on your first draft of the [Project Proposal](https://thomaselove.github.io/500-2024/proj500.html) (due Tuesday 2024-02-20)
 
 ## Using R to do propensity score analysis
