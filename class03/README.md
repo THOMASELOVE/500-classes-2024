@@ -16,7 +16,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Today's class will be recorded and posted so that you can watch it, as soon as Dr. Love can get that done.
+1. Today's class was pre-recorded. It is now posted so that you can watch it or download it. See your email or [Canvas](https://canvas.case.edu/) to access the recording (if you use Canvas, select **Zoom** then **Cloud Recordings**).
 2. The Answer Sketch for [Lab 1](https://thomaselove.github.io/500-2024/lab1.html) will be posted to our Shared Drive as soon as possible.
 3. **Next Week** My plan for 500 [Class 04](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class04) is to teach it from 9 to 11 AM on Thursday 2024-02-08 but over Zoom. The Zoom link will be sent as a reminder via email and is also available on Canvas. As things stand, I intend to return to regular (in-class) teaching for 500 with Class 05 on Thursday 2024-02-15.
 
