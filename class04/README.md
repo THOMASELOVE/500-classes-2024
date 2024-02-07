@@ -20,7 +20,7 @@ Leila's Office Hours on Monday 2024-02-12 will be held from NOON to 1 PM instead
 
 - The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy): Using R to do propensity score matching, subclassification, weighting and adjustment
 
-We also have another worked example in R using Quarto, this one built by Wyatt P. Bensken and Harry Persaud, but based on real data. It's called [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) and we'll look it over in class either today or next Thursday, depending on how much time the toy example takes.
+We also have another worked example in R using Quarto, this one built by Wyatt P. Bensken and Harry Persaud, but based on real data. It's called [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) and we'll look it over in class briefly today after we complete the toy example.
 
 ## Discussion of Chapter 4 in Rosenbaum
 
