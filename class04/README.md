@@ -38,5 +38,4 @@ I'll have some comments about the accepted papers in class soon. OSIA claims are
 
 # Self-Promotion
 
-Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are selling very well. If you'd like to go, please visit <https://www.hudsonplayers.com/> quickly. The only remaining shows with more than a couple of seats available are the evening shows on February 16, 17, 23 and 24.
-
+Tickets to some performances of [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are still available. If you'd like to go, please visit <https://www.hudsonplayers.com/>. There are a few seats left for the evening shows on February 16 and 17, and reasonable availability on February 23 and 24. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like!
