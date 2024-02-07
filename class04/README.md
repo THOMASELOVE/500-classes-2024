@@ -14,7 +14,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Office Hours Change
 
-Leila's Office Hours on Monday 2024-02-12 will be held from NOON to 1 PM instead of the usual 5-6 PM. Thank you.
+Leila's Office Hours on Monday 2024-02-12 will be held from NOON to 1 PM instead of the usual 5-6 PM. Thank you. I have scheduled an email to you (arriving Sunday) to remind you of this change.
 
 ## Examples using Quarto and R to do propensity analyses.
 
