@@ -26,6 +26,9 @@ We also have another worked example in R using Quarto, this one built by Wyatt P
 
 We'll also attempt to discuss Chapter 4 (Adjustments for Measured Covariates) in *Causal Inference* today, in some small groups.
 
+- What was the most important thing you learned from reading Chapter 4?
+- What was the muddiest, least clear thing that arose in your reading?
+
 ## OSIA Claims
 
 I'll have some comments about the accepted papers in class soon. OSIA claims are found at <https://github.com/THOMASELOVE/500-osia-2024>, and our first OSIA presentations will be on 2024-03-21.
