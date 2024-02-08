@@ -31,7 +31,7 @@ We'll also attempt to discuss Chapter 4 (Adjustments for Measured Covariates) in
 
 ## OSIA Claims
 
-I'll have some comments about the accepted papers in class soon. OSIA claims are found at <https://github.com/THOMASELOVE/500-osia-2024>, and our first OSIA presentations will be on 2024-03-21.
+I'll have some comments about the accepted papers in class next week, and at that time, I'll also announce which papers will be discussed in class, and which will be done via video recording. OSIA claims are found at <https://github.com/THOMASELOVE/500-osia-2024>, and our first OSIA presentations will be on 2024-03-21.
 
 ## What Should I Be Working On?
 
