@@ -12,5 +12,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 05 | 2024-02-15 | **[Slides 05](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides05.pdf)** | **[Code 05](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides05.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## More to come.
+## Announcements
+
+1. We're back to in-person education at 9 AM today (Thursday 2024-02-15) in WRB 1217.
+2. I posted a slightly revised sketch for Lab 1 to our Shared Drive after Aman was kind enough to let us know that I'd miscoded the sex. This affects the sex coefficients in the result.
+
+## Finally...
+
+[Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, is going well. If you'd like to go, please visit <https://www.hudsonplayers.com/> to reserve your tickets, but act quickly. There are a few seats left for the evening shows on February 23 and 24. All other performances are sold out. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like, although I know it's a long show.
 
