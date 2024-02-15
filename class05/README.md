@@ -17,7 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. We're back to in-person education at 9 AM today (Thursday 2024-02-15) in WRB 1217.
 2. I posted a slightly revised sketch for Lab 1 to our Shared Drive after Aman was kind enough to let us know that I'd miscoded the sex. This affects the sex coefficients, but I think that's it.
 3. The Lab 2 sketch will be posted to our Shared Drive **by class time**.
-4. I think I now have everyone on my email list and on the Shared Drive. Let me know if I don't have you there.
+4. I think I now have everyone on my email list and on the Shared Drive. I will share the lists during class. Please let me know if I don't have you.
 
 ## Finally...
 
