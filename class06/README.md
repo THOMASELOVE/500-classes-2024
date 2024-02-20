@@ -14,3 +14,4 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## More to come.
 
+A reference you should have is Frank Harrell and others [Statistical Problems to Document and to Avoid: Checklist for Authors](https://discourse.datamethods.org/t/author-checklist/3407).
