@@ -14,7 +14,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Which OSIA talks will be presented in Classes 9-11, and which will be submitted as recordings?  That information [is on our OSIA Claims page](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md).
+1. Which OSIA talks will be presented in Classes 9-11, and which will be submitted as recordings?  See [the OSIA Claims page](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md).
     - On our Shared Google Drive, I have also created a document called **OSIA Abstracts 2024**, which contains the abstract for each of our 22 papers, conveniently split into the 9 that will be presented in class, and the 13 that will be presented by video recording.
     - The **OSIA Abstracts** 2024 document also specifies which people will serve as second reader for the 9 to be given in class, and which will serve as second reader for the 13 that will be recorded.
     - I have added supplements for several articles to the PDFs available on our Claims page, too.
