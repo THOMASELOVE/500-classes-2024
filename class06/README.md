@@ -17,6 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. Which OSIA talks will be presented in Classes 9-11, and which will be submitted as recordings?  That information [is on our OSIA Claims page](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md).
     - On our Shared Google Drive, I have also created a document called **OSIA Abstracts 2024**, which contains the abstract for each of our 22 papers, conveniently split into the 9 that will be presented in class, and the 13 that will be presented by video recording.
     - The **OSIA Abstracts** 2024 document also specifies which people will serve as second reader for the 9 to be given in class, and which will serve as second reader for the 13 that will be recorded.
+    - I have added supplements for several articles to the PDFs available on our Claims page, too.
 2. Your next OSIA step is to review the abstracts and [register your top four preferences](https://bit.ly/500-2024-osia-reader2) (from within the "second reader" group I have assigned you) using the Google Form at <https://bit.ly/500-2024-osia-reader2>, by **9 AM on Wednesday 2024-02-28**.
 3. [Lab 3](https://thomaselove.github.io/500-2024/lab3.html) is due at class time next Thursday 2024-02-29.
 4. A reference you should have is Frank Harrell and others [Statistical Problems to Document and to Avoid: Checklist for Authors](https://discourse.datamethods.org/t/author-checklist/3407).
