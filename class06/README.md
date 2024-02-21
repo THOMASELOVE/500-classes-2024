@@ -15,7 +15,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
 
 1. I want to announce which OSIA talks will be presented in Classes 9-11. That information [is here](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md).
-    - On our Shared Google Drive, I have created a document called OSIA Abstracts 2024, which contains the abstract for each of our 22 papers, conveniently split into the 9 that will be presented in class, and the 13 that will be presented by video recording.
+    - On our Shared Google Drive, I have created a document called **OSIA Abstracts 2024**, which contains the abstract for each of our 22 papers, conveniently split into the 9 that will be presented in class, and the 13 that will be presented by video recording.
     - The OSIA Abstracts 2024 document also specifies which people will serve as second reader for the 9 to be given in class, and which will serve as second reader for the 13 that will be recorded.
 2. Your next step is to review the abstracts and register your top four preferences (from within the "second reader" group I have assigned you) using the Google Form at <https://bit.ly/500-2024-osia-reader2>, by 9 AM on Wednesday 2024-02-28.
 3. [Lab 3](https://thomaselove.github.io/500-2024/lab3.html) is due at class time next Thursday 2024-02-29.
