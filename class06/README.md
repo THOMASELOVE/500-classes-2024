@@ -1,6 +1,6 @@
 # 500 Class 06: 2024-02-22
 
-Today's class begins at 9 AM in WRB 1217.
+# TODAY'S CLASS WILL BE GIVEN EXCLUSIVELY OVER ZOOM. CHECK YOUR EMAIL OR CANVAS FOR DETAILS.
 
 [Main Website](https://thomaselove.github.io/500-2024/) | [Calendar](https://thomaselove.github.io/500-2024/calendar.html) | [Syllabus](https://thomaselove.github.io/500-syllabus-2024) | [Canvas](https://canvas.case.edu) | [Data/Code](https://github.com/THOMASELOVE/500-data) |  [Sources](https://github.com/THOMASELOVE/500-sources) | For help, email
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
