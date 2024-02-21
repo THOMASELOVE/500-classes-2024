@@ -1,5 +1,7 @@
 # 500 Projects for Spring 2024
 
+## Project Proposal First Drafts
+
 Investigator | Title
 :------------: | :---------------------------------------------------------------------------
 Karlo Toljan | Outcomes in posterior reversible encephalopathy syndrome based on history of hypertension
@@ -20,3 +22,10 @@ Seth Bauer | Vasopressor Cessation Order in the De-escalation Phase of Septic Sh
 John	Barron | Lung Transplant Survival in Veterans of the US Armed Forces
 Naji	Ayyash | Does living in counties in the top quartile of air quality lead to significant health benefits in terms of potential life lost and mentally unhealthy days experienced?
 Sara	Alqahtani | The Impact of Cybersecurity Breaches on Internal Control
+
+### Awaiting the First Draft
+
+- Morgan McLoughlin
+- Lydia Mitchell
+- Miza Salim Hammoud
+- Akhil SG
