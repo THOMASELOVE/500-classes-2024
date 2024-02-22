@@ -5,7 +5,7 @@
 Investigator | Title
 :------------: | :---------------------------------------------------------------------------
 Karlo Toljan | Outcomes in posterior reversible encephalopathy syndrome based on history of hypertension
-Sriram Satyavolu | Needs a title ("Studying Obesity in NHANES")
+Sriram Satyavolu | The Paradoxical Association Between Food Insecurity and Obesity
 Miza Salim Hammoud | To come
 Akhil S.G. | To come
 Sam	Rodgers-Melnick | Effectiveness of Music Therapy on Length of Stay and Opioid Utilization
