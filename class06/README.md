@@ -18,7 +18,7 @@ Class | Date | PDF | Quarto .qmd | Recording
     - On our Shared Google Drive, I have also created a document called **OSIA Abstracts 2024**, which contains the abstract for each of our 22 papers, conveniently split into the 9 that will be presented in class, and the 13 that will be presented by video recording.
     - The **OSIA Abstracts** 2024 document also specifies which people will serve as second reader for the 9 to be given in class, and which will serve as second reader for the 13 that will be recorded.
     - I have added supplements for several articles to the PDFs available on our Claims page, too.
-2. A list of Project Proposals (Draft 1) with titles is found [here](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal1.md). On our Shared Drive (by class time), you will find a more substantial Google Sheet called **Project Draft 1 Reactions from Dr. Love** including the following information, which I will try to discuss in class today.
+2. A list of Project Proposals (Draft 1) with titles is found [here](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal1.md). On our Shared Drive, you will find a more substantial Google Sheet called **Project Draft 1 Reactions from Dr. Love** including the following information, which I will try to discuss in class today.
     - Title, Research Question(s), Data Source(s)
     - Population of Interest, Outcome(s), Descriptions of the two Exposure Groups, Covariate Counts
     - Are the data in hand?
