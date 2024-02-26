@@ -30,4 +30,4 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## What Should I Be Working On?
 
 1. [Draft 2 of the Project Proposal](https://thomaselove.github.io/500-2024/proj500.html#the-project-proposal), as well as the [Project Scheduling Form](https://bit.ly/500-project-schedule-2024) (now open) are due on **Tuesday 2024-03-05** by 9 AM.
-2. [Lab 4] is due to Canvas by the start of class on 2024-03-21, which is also the first day when we'll be hearing OSIA presentations.
+2. Our final Lab, [Lab 4](https://thomaselove.github.io/500-2024/lab4.html) is due to Canvas by the start of class on 2024-03-21, which is also the first day when we'll be hearing OSIA presentations, and the first day of our class after Spring Break.
