@@ -16,7 +16,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. **By class time**, I should have posted the Sketch for Lab 3 to our Shared Drive.
 2. **By class time**, I anticipate having the complete schedule for OSIA presentations available at [the OSIA Claims page](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md).
-3. The [Right Heart Catheterization example](https://github.com/THOMASELOVE/500-data/tree/master/rhc) is now complete, including the sensitivity analysis material. We will discuss this a little today. 
+3. The [Right Heart Catheterization example](https://github.com/THOMASELOVE/500-data/tree/master/rhc) is now complete, including the sensitivity analysis material. (We'll use the 2023 version.) We will discuss this a little today. 
     - The original paper is Connors Alfred F et al. 1996 [The Effectiveness of Right Heart Catheterization in the Initial Care of Critically Ill Patients](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Connors%20et%20al%201996%20JAMA%20The%20Right%20Heart%20Catheterization%20Study.pdf) from the *Journal of the American Medical Association*
 4. We will discuss sensitivity analysis for matched samples as our main topic for today's class.
 5. Our other topic for today is Rosenbaum *Causal Inference* and its brief Chapter 6 on anticipated counter-claims and quasi-experimental devices, but we may also want to revisit Chapter 5 on sensitivity analysis that we talked about on 2024-03-15, in light of today's discussion.
