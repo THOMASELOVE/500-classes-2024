@@ -14,7 +14,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
-1. **By class time**, I should have posted the Sketch for Lab 3 to our Shared Drive.
+1. I have posted the Sketch for Lab 3 to our Shared Drive.
 2. The complete schedule (including second readers) for OSIA presentations available at [the OSIA Claims page](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md).
 3. The [Right Heart Catheterization example](https://github.com/THOMASELOVE/500-data/tree/master/rhc) is now complete, including the sensitivity analysis material. (We'll use the 2023 version.) We will discuss this a little today. 
     - The original paper is Connors Alfred F et al. 1996 [The Effectiveness of Right Heart Catheterization in the Initial Care of Critically Ill Patients](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Connors%20et%20al%201996%20JAMA%20The%20Right%20Heart%20Catheterization%20Study.pdf) from the *Journal of the American Medical Association*
