@@ -18,6 +18,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. Next week is Spring Break.
     - There are no TA office hours on 2024-03-11 or 2024-03-13.
     - Our next class (Class 09) will be held on Thursday 2024-03-21.
+3. Be sure to refer to our [OSIA Schedule page](https://github.com/THOMASELOVE/500-osia-2024/tree/main), to verify your times.
+    - Our first presentations will be at our next class (2024-03-21) and involve Sid, Hala and Sriram as first readers, and Jesse, Aman and Marie as second readers. Be sure that the six of you meet [all deadlines and specifications for submitting your work](https://thomaselove.github.io/500-2024/osia.html#presentation-submission-details-for-the-in-class-talks).
+    - In particular, the first reader slides (Sid, Hala, Sriram) should be on our Shared Google Drive in the appropriate folder (osia / 2024-03-21 (Class 9) Submit OSIA slides for Live Presentations here) by 1 PM on 2024-03-20.
+    - The second reader slides (Jesse, Aman, Marie) should be on our Shared Google Drive in the appropriate folder (osia / 2024-03-21 (Class 9) Submit OSIA slides for Live Presentations here) by 7:30 AM on 2024-03-21.
 3. [Lab 4](https://thomaselove.github.io/500-2024/lab4.html) is due at the start of class on Thursday 2024-03-21.
 4. I plan to announce the Project Presentation Schedule in class today, and discuss the second drafts of your Project Proposals.
 
