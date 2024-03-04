@@ -20,4 +20,14 @@ Class | Date | PDF | Quarto .qmd | Recording
     - Our next class (Class 09) will be held on Thursday 2024-03-21.
 3. [Lab 4](https://thomaselove.github.io/500-2024/lab4.html) is due at the start of class on Thursday 2024-03-21.
 4. I plan to announce the Project Presentation Schedule in class today, and discuss the second drafts of your Project Proposals.
- 
+
+## Some Notes on Lab 3 from Leila Hojat
+
+- Most people are consistently doing very well!
+- A couple of people are including outcomes in the propensity score - that's never something you can do, ever.
+- One person had some very different results due to using the matched sample from the end of lab 2 to start lab 3 instead of the original canc3 dataset 
+- Several students struggled with calculating Rubin's rule 2 from the `bal.table` results
+- Several students went with the twang ATT weights, and those that provided rationales gave me the impression that they didn't have a good understanding of the effective sample sizes
+- Other problems: forgetting to exponentiate and misinterpreting the results, calculating ATE instead of ATT, forgetting to use quasibinomial family
+
+
