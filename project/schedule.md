@@ -5,6 +5,7 @@
 - If you are not marked below under *Planned Absence*, I expect you to be in WRB 1217 from 8:30 AM until we are finished (see schedule for details.) Your colleagues deserve your attendance and feedback. No Zooming will occur on these dates.
 - The titles below are approved by Dr. Love. In many cases, I have adjusted your title to improve it, and/or to meet the 80 character limit. Use this version of the title, or another I will like better that remains at a maximum of 80 characters.
 - While each time slot is **25** minutes long, we expect you to speak for **18** minutes, leaving 5 minutes for questions and another 2 minutes at the end of your talk to  transition to the next student.
+- Follow [the outline and advice on the presentation](https://thomaselove.github.io/500-2024/proj500.html#the-presentation) provided in the project instructions, please.
 
 # Thursday 2024-04-11 from 8:30 AM to 11:00 AM
 
