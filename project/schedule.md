@@ -4,52 +4,60 @@
 
 # Thursday 2024-04-11
 
-Date | Time | Presenter | Title
-------: | -----: | :----------------: | :-----------------------------------------------
-2024-04-11 | 8:35 - 8:55 AM | Jesse Chen | 
-2024-04-11 | 9:00 - 9:20 AM | Akhil S.G. |
-2024-04-11 | 9:25 - 9:45 AM | Morgan McLoughlin |
-2024-04-11 | 10:00 - 10:20 AM | Anthony Orsino |
-2024-04-11 | 10:25 - 10:45 AM | Sriram Satyavolu |
+*Each time slot is 20 minutes long*
+
+Date | Start | Presenter | Title
+------: | -------: | :----------------: | :----------------------------------------------------------
+04-11 | 8:35 AM | Jesse Chen | Effect of Hypertension on Non-Alcoholic Fatty Liver Disease Among US Non-obese Adults
+04-11 | 9:00 AM | Akhil S.G. | Telemedicine vs. Closing Time
+04-11 | 9:25 AM | Morgan McLoughlin | Maternal Depression as a Predictor of Participation and Engagement in a Parent-Training Intervention
+04-11 | 10:00 AM | Anthony Orsino | High School Drug Distribution and Social Health
+04-11 | 10:25 AM | Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
 
 - *Planned Absence*: John Barron, Chris Benson, Sam Rodgers-Melnick
 - *Availability Unclear to provide feedback*: Sid Dugar? Hala Nas?
 
 # Thursday 2024-04-18
 
-Date | Time | Presenter | Title
-------: | -----: | :----------------: | :-----------------------------------------------
-2024-04-18 | 8:35 - 8:55 AM | Ava Fan | 
-2024-04-18 | 9:00 - 9:20 AM | Miza Salim Hammoud |
-2024-04-18 | 9:25 - 9:45 AM | Lent Mantshonyane |
-2024-04-18 | 9:55 - 10:15 AM | Justin Robinson |
-2024-04-18 | 10:20 - 10:40 AM | Anya Nazarenko |
-2024-04-18 | 10:45 - 11:05 AM | Lydia Mitchell or Sara Alqatani
+*Each time slot is 20 minutes long*
+
+Date | Start | Presenter | Title
+------: | -------: | :----------------: | :----------------------------------------------------------
+04-18 | 8:35 AM | Ava Fan | Imaging extranodal extension as a prognostic factor in HPV+ oropharyngeal cancer
+04-18 | 9:00 AM | Miza Salim Hammoud | --
+04-18 | 9:25 AM | Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB disease
+04-18 | 9:55 AM | Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular Septal Defects
+04-18 | 10:20 AM | Anya Nazarenko | Are men less likely to seek mental health treatment services?
+04-18 | 10:45 AM | Lydia Mitchell <br /> or Sara Alqatani | -- <br /> Impact of Cybersecurity Breaches on Corporate Governance and Operational Performance
 
 - *Planned Absence*: None. I expect all 22 to attend.
 
 # Thursday 2024-04-25
 
-Date | Time | Presenter | Title
-------: | -----: | :----------------: | :-----------------------------------------------
-2024-04-25 | 8:35 - 8:55 AM | Naji Ayyash | 
-2024-04-25 | 9:00 - 9:20 AM | Chris Benson |
-2024-04-25 | 9:25 - 9:45 AM | Aman Pande |
-2024-04-25 | 9:55 - 10:15 AM | Sid Dugar |
-2024-04-25 | 10:20 - 10:40 AM | Hala Nas |
-2024-04-25 | 10:45 - 11:05 AM | Lydia Mitchell or Sara Alqatani
+*Each time slot is 20 minutes long*
+
+Date | Start | Presenter | Title
+------: | -------: | :----------------: | :----------------------------------------------------------
+04-25 | 8:35 AM | Naji Ayyash | The effects of living in high air quality counties on physical and mental health
+04-25 | 9:00 AM | Chris Benson | Infant mortality rates in the US counties based on county level income inequality
+04-25 | 9:25 AM | Aman Pande | Treatment of interstitial lung diseases other than idiopathic pulmonary fibrosis with immunosuppressant medications
+04-25 | 9:55 AM | Sid Dugar | Does performance of echocardiogram early during sepsis and septic change outcome? 
+04-25 | 10:20 AM | Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volume Reduction
+04-25 | 10:45 AM | Lydia Mitchell <br /> or Sara Alqatani | -- <br /> Impact of Cybersecurity Breaches on Corporate Governance and Operational Performance
 
 - *Planned Absence*: Justin Robinson
 
 # Thursday 2024-05-02
 
-Date | Time | Presenter | Title
-------: | -----: | :----------------: | :-----------------------------------------------
-2024-05-02 | 8:35 - 8:55 AM | Karlo Toljan | 
-2024-05-02 | 9:00 - 9:20 AM | Marie Masotya |
-2024-05-02 | 9:25 - 9:45 AM | Seth Bauer |
-2024-05-02 | 10:00 - 10:20 AM | Sam Rodgers-Melnick |
-2024-05-02 | 10:25 - 10:45 AM | John Barron |
+*Each time slot is 20 minutes long*
+
+Date | Start | Presenter | Title
+------: | -------: | :----------------: | :----------------------------------------------------------
+05-02 | 8:35 AM | Karlo Toljan | Outcomes in posterior reversible encephalopathy syndrome based on history of immunosuppressant use
+05-02 | 9:00 AM | Marie Masotya | Asthma and School Absenteeism in Children on Medicaid in Cuyahoga County
+05-02 | 9:25 AM | Seth Bauer | Vasopressor Cessation Order in the De-escalation Phase of Septic Shock
+05-02 | 10:00 AM | Sam Rodgers-Melnick | Effectiveness of Music Therapy on Length of Stay and Opioid Utilization
+05-02 | 10:25 AM | John Barron | Lung Transplant Survival in Veterans of the US Armed Forces
 
 - *Planned Absence*: Justin Robinson, Sriram Satyavolu
 
