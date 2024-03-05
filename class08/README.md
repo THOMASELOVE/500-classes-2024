@@ -23,7 +23,8 @@ Class | Date | PDF | Quarto .qmd | Recording
     - In particular, the first reader slides (Sid, Hala, Sriram) should be on our **Shared Google Drive** in the appropriate folder (`osia / 2024-03-21 (Class 9) Submit OSIA slides for Live Presentations here`) no later than 1 PM on Wednesday 2024-03-20.
     - The second reader slides (Jesse, Aman, Marie) should be on our **Shared Google Drive** in that same folder (`osia / 2024-03-21 (Class 9) Submit OSIA slides for Live Presentations here`) no later than 7:30 AM on Thursday 2024-03-21.
 3. [Lab 4](https://thomaselove.github.io/500-2024/lab4.html) is also due (submit to Canvas) at the start of class on Thursday 2024-03-21.
-4. I plan to announce the Project Presentation Schedule in class today, and discuss the second drafts of your Project Proposals.
+4. The [Project Presentation Schedule is now available](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md). Please note your time and date. I expect every student to provide feedback on all projects except their own for the sessions they can attend (there will be no Zoom.)
+    - If you are not marked as *Planned Absence* on that page, I expect you to be in WRB 1217 from 8:30 AM until we are finished (see schedule for details.) Your colleagues deserve your attendance and feedback.
 
 ## Some Notes on Lab 3 from Leila Hojat
 
