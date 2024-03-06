@@ -83,6 +83,13 @@ These should help you build on what you read about in Rosenbaum, Chapter 7, a bi
 - Angrist Joshua D Imbens Guido W and Rubin Donald B 1996 [Identification of Causal Effects Using Instrumental Variables](https://www.jstor.org/stable/2291629) Journal of the American Statistical Association, Vol. 91, No. 434 (Jun., 1996), pp. 444-455. <https://doi.org/10.2307/2291629>
 - Dubner Stephen J and Levitt Steven D *Freakonomics* - [the books](https://freakonomics.com/books/) and also [the (archived) blog](https://www.freakonomics.com/blog/) alonng with [their podcasts](https://freakonomics.com/about/), etc.
 
+# Next Time
+
+- Remember no class next week. Our next class is 2024-03-21 at 9 AM.
+- Rosenbaum, Chapter 8 (Replication, Resolution and Evidence Factors)
+- Brief Discussion of Lab 4
+- First Three OSIA presentations (see below)
+
 ## OSIA To Be Presented Live in Class 09 (2024-03-21)
 
 - Sid, Hala and Sriram: post your 1st reader **slides** to our **Shared Drive** by 1 PM on Wednesday 2024-03-20.
