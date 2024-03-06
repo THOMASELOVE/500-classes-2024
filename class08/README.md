@@ -85,7 +85,7 @@ These should help you build on what you read about in Rosenbaum, Chapter 7, a bi
 
 # Next Time
 
-- Remember no class next week. Our next class is 2024-03-21 at 9 AM.
+- Remember no class next week. Our next class (Class 09) is 2024-03-21 at 9 AM.
 - Rosenbaum, Chapter 8 (Replication, Resolution and Evidence Factors)
 - Brief Discussion of Lab 4
 - First Three OSIA presentations (see below)
