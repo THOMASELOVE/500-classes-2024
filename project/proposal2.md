@@ -351,12 +351,12 @@ Akhil S.G. | Telemedicine vs. Closing Time
 *Colleagues* | Yes, 2
 *Format* | Word/PDF
 *Research ?* | Does the mode of encounter (telemedicine vs. in-person visit) have a causal effect on the time taken to close a case after the patient leaves?
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | 
+*Outcome* | Closing time after patient in cardiology has "checked out" (in hours) - mean appears to be 96, with a **minimum of -5 (?)** and maximum of 914
+*"Treated"* | In-person encounter (422 subjects)
+*"Control"* | Telemedicine encounter (1165 subjects)
+*Covariates* | *Patient* information: age, sex, insurance, distance from hospital in miles (**calculated from zipcodes? how do you have this if data are de-identified?**), race, language (**will you have meaningful variation?**) <br /> *Encounter* information: new/recurring visit, appointment scheduled time, duration of patient visit, diagnosis code (**ICD-10? Won't there be multiple codes?**) <br /> *Provider* information: type (nurse, physician, PA), clinician gender (M/F), experience (**via GradYear?**) specialty (**2 categories?**) and clinic ID (unique for each of 80 clinicians - this is **not** something you'll include in a propensity score.) **The thing that is definitely missing is any sense of how the provider feels about technology.**
+*Data Source* | A little vague. These are data from some EHR in the Western US on about 80 care providers (**not all physicians**) in a Department of Cardiology over a one-month period (February 2021.)
+*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though. Don't create fake null and alternative hypotheses - you're estimating an effect size here.
 
 [Back to Top](#table-of-contents)
 
