@@ -106,7 +106,7 @@ Seth Bauer | Vasopressor Cessation Order in the De-escalation Phase of Septic Sh
 
 Chris Benson | Income inequality and Infant mortality in US counties
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 14) 2024-04-25 from 8:55 to 9:20 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -123,7 +123,7 @@ Chris Benson | Income inequality and Infant mortality in US counties
 
 Jesse Chen | Hypertension and Non-Alcoholic Fatty Liver Disease (NAFLD) Among Non-Obese US Adults
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 12) 2024-04-11 from 8:35 to 9:00 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -140,7 +140,7 @@ Jesse Chen | Hypertension and Non-Alcoholic Fatty Liver Disease (NAFLD) Among No
 
 Sid Dugar | Do early echocardiograms during sepsis and septic change outcomes?
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 14) 2024-04-25 from 9:55 to 10:20 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -157,7 +157,7 @@ Sid Dugar | Do early echocardiograms during sepsis and septic change outcomes?
 
 Ava Fan | Imaging extranodal extension (iENE) as a prognostic factor in HPV+ oropharyngeal cancer
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 13) 2024-04-18 from 8:30 to 8:55 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -174,7 +174,7 @@ Ava Fan | Imaging extranodal extension (iENE) as a prognostic factor in HPV+ oro
 
 Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB disease
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 13) 2024-04-18 from 9:20 to 9:45 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -191,7 +191,7 @@ Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB
 
 Marie Masotya | Asthma and School Absenteeism in Children on Medicaid in Cuyahoga County
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 15) 2024-05-02 from 9:00 to 9:25 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -208,7 +208,7 @@ Marie Masotya | Asthma and School Absenteeism in Children on Medicaid in Cuyahog
 
 Morgan McLoughlin | Maternal Depression and Parent-Training Participation and Engagement
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 12) 2024-04-11 from 9:25 to 9:50 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -225,7 +225,7 @@ Morgan McLoughlin | Maternal Depression and Parent-Training Participation and En
 
 Lydia Mitchell | Health insurance and premature death in US adults
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 14) 2024-04-25 from 10:45 to 11:10 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -242,7 +242,7 @@ Lydia Mitchell | Health insurance and premature death in US adults
 
 Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volume Reduction
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 14) 2024-04-25 from 10:20 to 10:45 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -259,7 +259,7 @@ Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volu
 
 Anya Nazarenko | Are men less likely to seek mental health treatment services?
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 13) 2024-04-18 from 10:20 to 10:45 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -276,7 +276,7 @@ Anya Nazarenko | Are men less likely to seek mental health treatment services?
 
 Anthony Orsino | High School Drug Distribution and Social Health
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 12) 2024-04-11 from 10:00 to 10:25 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -293,7 +293,7 @@ Anthony Orsino | High School Drug Distribution and Social Health
 
 Aman Pande | Interstitial lung diseases and immunosuppressant medications
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 14) 2024-04-25 from 9:20 to 9:45 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -310,7 +310,7 @@ Aman Pande | Interstitial lung diseases and immunosuppressant medications
 
 Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular Septal Defects (AVSD)
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 13) 2024-04-18 from 9:55 to 10:20 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -327,7 +327,7 @@ Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular S
 
 Sam Rodgers-Melnick | Effectiveness of Music Therapy (MT) on Length of Stay and Opioid Utilization
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 15) 2024-05-02 from 10:00 to 10:25 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -344,7 +344,7 @@ Sam Rodgers-Melnick | Effectiveness of Music Therapy (MT) on Length of Stay and 
 
 Miza Salim Hammoud | Gender-Specific Quality of Life in Adults with Congenital Heart Disease (ACHD)
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 13) 2024-04-18 from 8:55 to 9:20 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -361,7 +361,7 @@ Miza Salim Hammoud | Gender-Specific Quality of Life in Adults with Congenital H
 
 Akhil S.G. | Telemedicine vs. Closing Time
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 12) 2024-04-11 from 9:00 to 9:25 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -378,7 +378,7 @@ Akhil S.G. | Telemedicine vs. Closing Time
 
 Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 12) 2024-04-11 from 10:25 to 10:50 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
@@ -395,7 +395,7 @@ Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
 
 Karlo Toljan | Posterior reversible encephalopathy syndrome (PRES) and immunosuppressant history
 :--------------: | :--------------------------------------------------------------------------------------------------
-*Presenting* | (Class X) 2024-XX-XX from XX to XX AM
+*Presenting* | (Class 15) 2024-05-02 from 10:25 to 10:50 AM
 *Colleagues* | 
 *Format* | 
 *Research ?* | 
