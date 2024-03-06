@@ -385,11 +385,11 @@ Karlo Toljan | Posterior reversible encephalopathy syndrome (PRES) and immunosup
 *Colleagues* | Yes, 4
 *Format* | Word/PDF
 *Research ?* | In adults diagnosed with PRES, is a history of immunosuppression use at the time of diagnosis associated with fewer discharges to home following the hospitalization during which PRES was diagnosed?
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | 
+*Outcome* | Disposition to home vs. all other (AR, SNF, LTAC, death) - binary
+*"Treated"* | 69 subjects who were on immunosuppression medications immediately prior to the hospitalization in which PRES was diagnosed
+*"Control"* | 200 subjects who were not on immunosuppression medications immediately prior to the hospitalization in which PRES was diagnosed
+*Covariates* | Age, Sex, Race (**This will need to be collapsed, probably just into White vs. Other, and do you have Hispanic ethnicity as well?**), Hypertension, Diabetes, Tobacco Use, Obesity (**can this be actual BMI rather than just BMI >= 30?**), Transplant Receipient, Seizure (**during hospitalization - can this be a covariate?**), MRI Brain with Ischemic Stroke, MRI Brain with Hemorrhagic Stroke - **ideally, you'd like to keep your covariates as granular as possible**. **Is type of insurance available?**
+*Data Source* | EHR data forming a retrospective cohort of adults hospitalized at CC in 2008-2018 with a PRES diagnosis
+*Also...* | -
 
 [Back to Top](#table-of-contents)
