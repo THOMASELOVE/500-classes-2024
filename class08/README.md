@@ -12,6 +12,15 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 08 | 2024-03-07 | **[Slides 08](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides08.pdf)** | **[Code 08](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides08.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Today's Agenda
+
+Time | Topic(s)
+-----------: | :-------------------------------------------------------------------------------------------
+9 - 9:30 | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main) <br /> Comments on Lab 3 from Leila, Project Proposals (draft 2) comments (on **Shared Drive**)
+9:30 - 10:10 | (1) Some Extensions to Propensity Matching <br /> (2) Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. <br /> (3) Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
+10:10 - 10:20 | Break
+10:20 - 11:00 | Rosenbaum Chapter 7 (Natural Experiments, Discontinuities and Instruments) discussion 
+
 ## Announcements
 
 1. The [Calendar](https://thomaselove.github.io/500-2024/calendar.html) has been rearranged so that March is at the top, and all of the OSIA and Project deadlines have been included, with your name identifying when your work is to be submitted and presented.
@@ -26,15 +35,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 5. The [Project Presentation Schedule is now available](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md). Please note your time and date for submitting materials and for giving your presentations. I expect every student to provide feedback on all projects except their own for the sessions they can attend (there will be no Zoom in the last four classes.)
     - If you are not marked under *Planned Absences* on that page, I expect you to be in WRB 1217 from 8:30 AM until we are finished (see schedule for details.) Your colleagues deserve your attendance and feedback.
 6. In-class attendance has been disappointing recently. Do everything you can to make it to class in person after Spring Break, as Zoom will stop being a good option as I get quieter, starting with our next class. Thank you.
-
-## Today's Agenda
-
-Time | Topic(s)
------------: | :-------------------------------------------------------------------------------------------
-9 - 9:30 | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main) <br /> Comments on Lab 3 from Leila, Project Proposals (draft 2) comments (on **Shared Drive**)
-9:30 - 10:10 | (1) Some Extensions to Propensity Matching <br /> (2) Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. <br /> (3) Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
-10:10 - 10:20 | Break
-10:20 - 11:00 | Rosenbaum Chapter 7 (Natural Experiments, Discontinuities and Instruments) discussion 
 
 ## Additional readings about instruments (and instruments vs. propensity scores) from our [Sources page](https://github.com/THOMASELOVE/500-sources) include: 
 
