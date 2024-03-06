@@ -15,7 +15,7 @@
 
 Date | Start | Presenter | Title
 ------: | -------: | :----------------: | :----------------------------------------------------------
-04-11 | 8:30 AM | Class begins.
+04-11 | 8:30 AM | Class begins | Introduction from Dr. Love
 04-11 | 8:35 AM | Jesse Chen | Hypertension and Non-Alcoholic Fatty Liver Disease Among Non-Obese US Adults
 04-11 | 9:00 AM | Akhil S.G. | Telemedicine vs. Closing Time
 04-11 | 9:25 AM | Morgan McLoughlin | Maternal Depression and Parent-Training Participation and Engagement
@@ -67,7 +67,7 @@ Date | Start | Presenter | Title
 
 Date | Start | Presenter | Title
 ------: | -------: | :----------------: | :----------------------------------------------------------
-05-02 | 8:30 AM | Class begins.
+05-02 | 8:30 AM | Class begins | Introduction from Dr. Love
 05-02 | 8:35 AM | Karlo Toljan | Posterior reversible encephalopathy syndrome and immunosuppressant history
 05-02 | 9:00 AM | Marie Masotya | Asthma and School Absenteeism in Children on Medicaid in Cuyahoga County
 05-02 | 9:25 AM | Seth Bauer | Vasopressor Cessation Order in the De-escalation Phase of Septic Shock
