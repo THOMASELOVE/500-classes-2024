@@ -3,9 +3,7 @@
 # Important Notes
 
 - If you are not marked below under *Planned Absences*, I expect you to be in WRB 1217 from 8:30 AM until the end of the session (at 11 AM or 11:10 AM; as noted) Your colleagues deserve your attendance and feedback. Zoom will **not** be used for these four classes.
-- The titles below are approved by Dr. Love. In many cases, I have adjusted your title to improve it, and/or to meet the 80 character limit. Use this version of the title, or another I will like better that remains at a maximum of 80 characters.
 - While each time slot is **25** minutes long, we expect you to speak for **18** minutes, leaving 5 minutes for questions and another 2 minutes at the end of your talk to  transition to the next student.
-- The next project-related deliverable is the [project update](https://thomaselove.github.io/500-2024/proj500.html#the-project-update) due Tuesday 2024-04-02 at 9 AM to Canvas. Some of you did an update as part of the second draft, for which I am grateful, but you'll need to submit a revised one by the April deadline.
 - Don't miss the [analysis tips](https://thomaselove.github.io/500-2024/proj500.html#analysis-tips) within our project instructions.
 - In preparing your **presentation**, follow [the outline and advice](https://thomaselove.github.io/500-2024/proj500.html#the-presentation) provided in the project instructions, please. Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation.
 
