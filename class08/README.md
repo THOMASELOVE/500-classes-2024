@@ -21,7 +21,7 @@ B | Project Proposals (draft 2) comments (on **Shared Drive**)
 C | (Slides) Some Extensions to Propensity Matching 
 D | (Slides) Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. 
 E | (Slides) Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
-F | Discussion of Rosenbaum **Causal Inference** Chapter 7 (Natural Experiments, Discontinuities and Instruments)
+F | Discussion of Rosenbaum **Causal Inference** Chapter 7 (Natural Experiments, Discontinuities and Instruments) <br /> Note supplemental slides at the end of the Class 08 Slides.
 
 ## Announcements
 
