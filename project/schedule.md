@@ -32,7 +32,7 @@ Date | Start | Presenter | Title
 04-18 | 9:25 AM | Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB disease
 04-18 | 9:55 AM | Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular Septal Defects
 04-18 | 10:20 AM | Anya Nazarenko | Are men less likely to seek mental health treatment services?
-04-18 | 10:45 AM | Lydia Mitchell <br /> or Sara Alqatani | -- <br /> Cybersecurity Breaches, Corporate Governance and Operational Performance
+04-18 | 10:45 AM | Sara Alqatani | Cybersecurity Breaches, Corporate Governance and Operational Performance
 04-18 | 11:10 AM | Class ends.
 
 - *Planned Absence*: None. I expect all 22 to attend.
@@ -47,7 +47,7 @@ Date | Start | Presenter | Title
 04-25 | 9:25 AM | Aman Pande | Interstitial lung diseases and immunosuppressant medications
 04-25 | 9:55 AM | Sid Dugar | Do early echocardiograms during sepsis and septic change outcomes? 
 04-25 | 10:20 AM | Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volume Reduction
-04-25 | 10:45 AM | Lydia Mitchell <br /> or Sara Alqatani | -- <br /> Cybersecurity Breaches, Corporate Governance and Operational Performance
+04-25 | 10:45 AM | Lydia Mitchell | Health insurance and premature death in US adults
 04-25 | 11:10 AM | Class ends.
 
 - *Planned Absence*: Justin Robinson
