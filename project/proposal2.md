@@ -13,15 +13,10 @@
 The [schedule of project presentations is found here](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md).
 
 
-[Sara Alqahtani](#sara-alqahtani) | [Naji Ayyash](#naji-ayyash) | [John Barron](#john-barron) | [Seth Bauer](#seth-bauer)
-[Chris Benson](#chris-benson) | [Jesse Chen](#jesse-chen) | [Sid Dugar](#sid-dugar) | [Ava Fan](#ava-fan)
+[Sara Alqahtani](#sara-alqahtani) | [Naji Ayyash](#naji-ayyash) | [John Barron](#john-barron) | [Seth Bauer](#seth-bauer) | [Chris Benson](#chris-benson) | [Jesse Chen](#jesse-chen) | [Sid Dugar](#sid-dugar) | [Ava Fan](#ava-fan)
 
-9. [Lent Mantshonyane](#lent-mantshonyane)
-10. [Marie Masotya](#marie-masotya)
-11. [Morgan McLoughlin](#morgan-mcloughlin)
-12. [Lydia Mitchell](#lydia-mitchell)
-13. [Hala Nas](#hala-nas)
-14. [Anya Nazarenko](#anya-nazarenko)
+[Lent Mantshonyane](#lent-mantshonyane) | [Marie Masotya](#marie-masotya) | [Morgan McLoughlin](#morgan-mcloughlin) | [Lydia Mitchell](#lydia-mitchell) | [Hala Nas](#hala-nas) | [Anya Nazarenko](#anya-nazarenko)
+
 15. [Anthony Orsino](#anthony-orsino)
 16. [Aman Pande](#aman-pande)
 17. [Justin Robinson](#justin-robinson)
