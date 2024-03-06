@@ -1,5 +1,11 @@
 # Project Proposal, Draft 2 for Spring 2024
 
+## General Notes
+
+- In many cases, I have adjusted your title to improve it, and/or to meet the 80 character limit. Use this version of the title, or another I will like better that remains at a maximum of 80 characters.
+- The next project-related deliverable is the [project update](https://thomaselove.github.io/500-2024/proj500.html#the-project-update) due Tuesday 2024-04-02 at 9 AM to Canvas. Some of you did an update as part of the second draft, for which I am grateful, but you'll need to submit a revised one by the April deadline.
+- Don't miss the [analysis tips](https://thomaselove.github.io/500-2024/proj500.html#analysis-tips) within our project instructions.
+- In preparing your **presentation**, follow [the outline and advice](https://thomaselove.github.io/500-2024/proj500.html#the-presentation) provided in the project instructions, please. Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation.
 
 ## Table of Contents
 
@@ -27,13 +33,6 @@ The [schedule of project presentations is found here](https://github.com/THOMASE
 20. [Akhil S.G.](#akhil-sg)
 21. [Sriram Satyavolu](#sriram-satyavolu)
 22. [Karlo Toljan](#karlo-toljan)
-
-## General Notes
-
-- In many cases, I have adjusted your title to improve it, and/or to meet the 80 character limit. Use this version of the title, or another I will like better that remains at a maximum of 80 characters.
-- The next project-related deliverable is the [project update](https://thomaselove.github.io/500-2024/proj500.html#the-project-update) due Tuesday 2024-04-02 at 9 AM to Canvas. Some of you did an update as part of the second draft, for which I am grateful, but you'll need to submit a revised one by the April deadline.
-- Don't miss the [analysis tips](https://thomaselove.github.io/500-2024/proj500.html#analysis-tips) within our project instructions.
-- In preparing your **presentation**, follow [the outline and advice](https://thomaselove.github.io/500-2024/proj500.html#the-presentation) provided in the project instructions, please. Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation.
 
 ### Sara Alqahtani
 
