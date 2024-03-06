@@ -64,7 +64,7 @@ Natural Experiments, Discontinuities and Instruments
     - What is the effect of encouragement? (randomized)
     - What is the effect of doing what you were encouraged to do? (trickier)
 - Instrumental Variables and the Complier Average Causal Effect
-    - Angrist, Imbens and Rubin set out five main characteristics/assumptions of a solid instrument
+    - [Angrist, Imbens and Rubin](https://www.jstor.org/stable/2291629) set out five main characteristics/assumptions of a solid instrument
     - "We cannot recognize a complier when we see one."
 
 ## Additional readings about instruments (and instruments vs. propensity scores) from our [Sources page](https://github.com/THOMASELOVE/500-sources) include: 
@@ -80,5 +80,16 @@ These should help you build on what you read about in Rosenbaum, Chapter 7, a bi
 ### Other useful resources include
 
 - Stukel Therese A. et al. 2007 [Analysis of Observational Studies in the Presence of Treatment Selection Bias: Effects of Invasive Cardiac Management on AMI Survival Using Propensity Score and Instrumental Variable Methods](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Stukel%20et%20al%202007%20JAMA.pdf) *Journal of the American Medical Association*
-- Angrist, Imbens and Rubin 1996 [Identification of Causal Effects Using Instrumental Variables](https://www.jstor.org/stable/2291629) Journal of the American Statistical Association, Vol. 91, No. 434 (Jun., 1996), pp. 444-455. <https://doi.org/10.2307/2291629>
+- Angrist Joshua D Imbens Guido W and Rubin Donald B 1996 [Identification of Causal Effects Using Instrumental Variables](https://www.jstor.org/stable/2291629) Journal of the American Statistical Association, Vol. 91, No. 434 (Jun., 1996), pp. 444-455. <https://doi.org/10.2307/2291629>
 - Dubner Stephen J and Levitt Steven D *Freakonomics* - [the books](https://freakonomics.com/books/) and also [the (archived) blog](https://www.freakonomics.com/blog/) alonng with [their podcasts](https://freakonomics.com/about/), etc.
+
+## OSIA To Be Presented Live in Class 09 (2024-03-21)
+
+- Sid, Hala and Sriram: post your 1st reader **slides** to our **Shared Drive** by 1 PM on Wednesday 2024-03-20.
+- Jesse, Aman, and Marie: post your 2nd reader **slides** to our **Shared Drive** by 7:30 AM on Thursday 2024-03-21.
+
+1st Reader | 2nd Reader |  Manuscript 
+:-----------: | :-----------: | :-----------------------------------------------------------------------
+Sid Dugar | Jesse Chen | Lan P et al. 2019 [Utilization of echocardiography during septic shock was associated with a decreased 28-day mortality: a propensity score-matched analysis of the MIMIC-III database](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Lan_2019.pdf) *Annals of Translational Medicine*
+Hala Nas | Aman Pande | Wang Q et al. 2022 [Adverse Events Following Limited Resection versus Stereotactic Body Radiation Therapy for Early Stage Lung Cancer](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Wang_2022.pdf) *Annals American Thoracic Society*
+Sriram Satyavolu | Marie Masotya | Webbe JWH et al. 2022 [Outcomes in relation to early parenteral nutrition use in preterm neonates born between 30 and 33 weeks' gestation: a propensity score matched observational study](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Webbe_2022.pdf) (pdf includes supplementary materials now) *Arch Dis Child Fetal Neonatal Ed*
