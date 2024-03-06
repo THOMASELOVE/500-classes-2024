@@ -12,14 +12,10 @@
 
 The [schedule of project presentations is found here](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md).
 
-1. [Sara Alqahtani](#sara-alqahtani)
-2. [Naji Ayyash](#naji-ayyash)
-3. [John Barron](#john-barron)
-4. [Seth Bauer](#seth-bauer)
-5. [Chris Benson](#chris-benson)
-6. [Jesse Chen](#jesse-chen)
-7. [Sid Dugar](#sid-dugar)
-8. [Ava Fan](#ava-fan)
+
+[Sara Alqahtani](#sara-alqahtani) | [Naji Ayyash](#naji-ayyash) | [John Barron](#john-barron) | [Seth Bauer](#seth-bauer)
+[Chris Benson](#chris-benson) | [Jesse Chen](#jesse-chen) | [Sid Dugar](#sid-dugar) | [Ava Fan](#ava-fan)
+
 9. [Lent Mantshonyane](#lent-mantshonyane)
 10. [Marie Masotya](#marie-masotya)
 11. [Morgan McLoughlin](#morgan-mcloughlin)
