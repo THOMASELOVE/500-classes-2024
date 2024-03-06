@@ -69,9 +69,16 @@ Natural Experiments, Discontinuities and Instruments
 
 ## Additional readings about instruments (and instruments vs. propensity scores) from our [Sources page](https://github.com/THOMASELOVE/500-sources) include: 
 
-These should help you build on what you read about in Rosenbaum, Chapter 7, a bit.
+These should help you build on what you read about in Rosenbaum, Chapter 7, a bit. 
+
+### Slides from the end of Slides Set 8 discuss the following three papers
 
 - Whitehouse Mark 2007 [Is an Economist Qualified to Solve Puzzle of Autism?](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Whitehouse%202007%20WSJ%20Economics%20and%20Autism.pdf) *Wall Street Journal*
+- Landrum Mary Beth and Ayanian John Z 2001 [Causal Effect of Ambulatory Specialty Care on Mortality Following Myocardial Infarction: A Comparison of Propensity Score and Instrumental Variable Analyses](articles/Landrum%20and%20Ayanian%202001%20Propensity%20Scores%20and%20Instrumental%20Variables.pdf) *Health Services & Outcomes Research Methodology*
 - Posner Micheal A. et al 2001 [Comparing Standard Regression, Propensity Score Matching and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*
+
+### Other useful resources include
+
 - Stukel Therese A. et al. 2007 [Analysis of Observational Studies in the Presence of Treatment Selection Bias: Effects of Invasive Cardiac Management on AMI Survival Using Propensity Score and Instrumental Variable Methods](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Stukel%20et%20al%202007%20JAMA.pdf) *Journal of the American Medical Association*
+- Angrist, Imbens and Rubin 1996 [Identification of Causal Effects Using Instrumental Variables](https://www.jstor.org/stable/2291629) Journal of the American Statistical Association, Vol. 91, No. 434 (Jun., 1996), pp. 444-455. <https://doi.org/10.2307/2291629>
 - Dubner Stephen J and Levitt Steven D *Freakonomics* - [the books](https://freakonomics.com/books/) and also [the (archived) blog](https://www.freakonomics.com/blog/) alonng with [their podcasts](https://freakonomics.com/about/), etc.
