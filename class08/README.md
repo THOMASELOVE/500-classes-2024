@@ -31,7 +31,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 Time | Topic(s)
 -----------: | :-------------------------------------------------------------------------------------------
-9 - 9:30 | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main), comments on Lab 3 from Leila, Project Proposals (draft 2) comments (on **Shared Drive**)
+9 - 9:30 | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main) <br /> Comments on Lab 3 from Leila, Project Proposals (draft 2) comments (on **Shared Drive**)
 9:30 - 10:10 | (1) Some Extensions to Propensity Matching <br /> (2) Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. <br /> (3) Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
 10:10 - 10:20 | Break
 10:20 - 11:00 | Rosenbaum Chapter 7 (Natural Experiments, Discontinuities and Instruments) discussion 
