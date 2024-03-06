@@ -56,15 +56,15 @@ Sara Alqahtani | Cybersecurity Breaches, Corporate Governance and Operational Pe
 Naji Ayyash | High air quality and its impact on physical and mental health
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 14) 2024-04-25 from 8:30 to 8:55 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | 
+*Colleagues* | None
+*Format* | Word/PDF
+*Research ?* | Do counties with 85th percentile good air days or higher have fewer age-adjusted potential years of life lost and average reported mentally unhealthy days when compared to those in the 80th percentile and lower?
+*Outcome* | 1. Age-adjusted potential years of life lost per 100,000 people (quant) <br /> 2. Average # of reported mentally unhealthy days per month (quant)
+*"Treated"* | 147 counties with air quality in the top 15% of counties (good air day 92.58% of the time or more)
+*"Control"* | 789 counties with air quality in the bottom 80% of counties (good air day 91.23% of the time or more)
+*Covariates* | 11 covariates from CHR 2020 and 2021, Outcomes from CHR 2023. **You need to verify the years when the data were actually gathered, not the years when they were included in CHR. To do so, you need to look at each year's Analytic Data Documentation. The 2023 report shows Poor Mental Health Days [obtained from BRFSS in 2020](https://www.countyhealthrankings.org/health-data/county-health-rankings-measures). The Years of potential life lost measure in 2023 actually is derived from data in 2018-2020. So your covariates need to (at the least) be measured no earlier than 2018, and ideally not after 2017, and so that might require data reported even earlier than in CHR 2020 or 2021.**
+*Data Source* | County Health Rankings in various years and EPA Air Quality System for 2018
+*Also...* | -
 
 [Back to Top](#table-of-contents)
 
@@ -73,15 +73,15 @@ Naji Ayyash | High air quality and its impact on physical and mental health
 John Barron | Lung Transplant Survival in Veterans of the US Armed Forces
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 15) 2024-05-02 from 10:25 to 10:50 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | 
+*Colleagues* | Yes, 4
+*Format* | Quarto (thanks!)
+*Research ?* | How does overall survival from the time of lung transplant among veterans transplanted through the VA transplant program compare to that of non-veterans that underwent transplant through non-VA programs? **You aren't just doing matching, so you shouldn't have a research question that implies that you are just doing matching.**
+*Outcome* | 1. Overall survival (time to event, with censoring) <br /> 2. Reintubation with 72 hours of transplant (binary)
+*"Treated"* | 268 veterans who received their transplant through one of three VA-associated centers
+*"Control"* | 2200 non-veterans who received their transplant somewhere else
+*Covariates* | More than two dozen, gathered in a table 1 nicely. **You should probably adjust the labels on EducationStatus from 1-6 to something more meaningful.**
+*Data Source* | UNOS via CCF
+*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
 
 [Back to Top](#table-of-contents)
 
@@ -90,15 +90,15 @@ John Barron | Lung Transplant Survival in Veterans of the US Armed Forces
 Seth Bauer | Vasopressor Cessation Order in the De-escalation Phase of Septic Shock
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 15) 2024-05-02 from 9:25 to 9:50 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | 
+*Colleagues* | Yes, 1
+*Format* | Quarto (thanks!)
+*Research ?* | Do adults with septic shock receiving concomitant norepinephrine and vasopressin have a shorter subsequent duration of vasopressors when vasopressin is ceased first, compared to when norepinephrine is ceased first?
+*Outcome* | Duration of time a patient received a vasopressor infusion after the first of the two drugs is ceased (quant)
+*"Treated"* | 101 subjects where norepinephrine was ceased first
+*"Control"* | 216 subjects where vasopressin was ceased first
+*Covariates* | More than two dozen. **As Seth has already figured out, the unique categorical identifier for the hospital of admission with 31 categories isn't going to be a good thing to put in your propensity score.**
+*Data Source* | eICU-CRD via PhysioNet
+*Also...* | -
 
 [Back to Top](#table-of-contents)
 
