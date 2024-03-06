@@ -64,7 +64,7 @@ Natural Experiments, Discontinuities and Instruments
     - What is the effect of encouragement? (randomized)
     - What is the effect of doing what you were encouraged to do? (trickier)
 - Instrumental Variables and the Complier Average Causal Effect
-    - [Angrist, Imbens and Rubin](https://www.jstor.org/stable/2291629) set out five main characteristics/assumptions of a solid instrument
+    - [Angrist, Imbens and Rubin](https://www.jstor.org/stable/2291629) set out five main characteristics/assumptions of a solid instrument (see supplemental slides)
     - "We cannot recognize a complier when we see one."
 
 ## Additional readings about instruments (and instruments vs. propensity scores) from our [Sources page](https://github.com/THOMASELOVE/500-sources) include: 
