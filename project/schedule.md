@@ -1,5 +1,8 @@
 # 500 Project Presentation Schedule
 
+- Discussion of [Project Proposal Draft 2 is here](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal2.md), and on Canvas.
+- Discussion of [Project Proposal Draft 1 is here](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal1.md), and on Canvas.
+
 # Important Notes
 
 - If you are not marked below under *Planned Absences*, I expect you to be in WRB 1217 from 8:30 AM until the end of the session (at 11 AM or 11:10 AM; as noted) Your colleagues deserve your attendance and feedback. Zoom will **not** be used for these four classes.
