@@ -7,7 +7,7 @@
 - Don't miss the [analysis tips](https://thomaselove.github.io/500-2024/proj500.html#analysis-tips) within our project instructions.
 - In preparing your **presentation**, follow [the outline and advice](https://thomaselove.github.io/500-2024/proj500.html#the-presentation) provided in the project instructions, please. Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation.
 
-# Thursday 2024-04-11 from 8:30 AM to 11:00 AM
+# Thursday 2024-04-11 from 8:30 AM to 11:00 AM (Class 12)
 
 - Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-10 at Noon.)
 
@@ -25,7 +25,7 @@ Date | Start | Presenter | Title
 - *Planned Absences*: John Barron, Chris Benson, Sam Rodgers-Melnick
 - *Availability Unclear to provide feedback*: Sid Dugar? Hala Nas?
 
-# Thursday 2024-04-18 from 8:30 AM to 11:10 AM
+# Thursday 2024-04-18 from 8:30 AM to 11:10 AM (Class 13)
 
 - Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-17 at Noon.)
 
@@ -42,7 +42,7 @@ Date | Start | Presenter | Title
 
 - *Planned Absences*: None. I expect all 22 to attend.
 
-# Thursday 2024-04-25 from 8:30 AM to 11:10 AM
+# Thursday 2024-04-25 from 8:30 AM to 11:10 AM (Class 14)
 
 - Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-24 at Noon.)
 
@@ -59,7 +59,7 @@ Date | Start | Presenter | Title
 
 - *Planned Absences*: Justin Robinson
 
-# Thursday 2024-05-02 from 8:30 AM to 11:00 AM
+# Thursday 2024-05-02 from 8:30 AM to 11:00 AM (Class 15)
 
 - Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-05-01 at Noon.)
 
