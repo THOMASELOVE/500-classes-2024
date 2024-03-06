@@ -146,7 +146,7 @@ Ava Fan | Imaging extranodal extension (iENE) as a prognostic factor in HPV+ oro
 *Presenting* | (Class 13) 2024-04-18 from 8:30 to 8:55 AM
 *Colleagues* | Yes, 2
 *Format* | Word/PDF
-*Research ?* | 1. Does the presence of iENE lead to increased rates of disease recurrence? 2. Does the presence of iENE lead to worse overall survival?
+*Research ?* | 1. Does the presence of iENE lead to increased rates of disease recurrence? <br /> 2. Does the presence of iENE lead to worse overall survival?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -367,13 +367,13 @@ Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
 *Presenting* | (Class 12) 2024-04-11 from 10:25 to 10:50 AM
 *Colleagues* | None
 *Format* | Word/PDF
-*Research ?* | Are depression rates similar in US adults who experience low vs. high food insecurity? **You really need to write your research question as a question, that ends with a question mark. All you have here is an objective that I've tried to build into an RQ.**
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | 
+*Research ?* | Are depression rates similar in US adults who experience low vs. high food insecurity? **I've tried to build your study into an RQ. A real RQ ends with a question mark.**
+*Outcome* | Depression assessed using the PHQ-9, with scores of 10 or greater indicating depression (binary). **I think you should also use PHQ-9 as a quantitative outcome, assuming you have it.**
+*"Treated"* | **This is a problem, as I don't know what you're doing. I assume you will derive the exposure from the four categories of food insecurity at the household level that you mention, but you need to (1) specify your "treatment" and "control" groups in terms of subjects, not households, and also (2) tell me how many subjects fall into each of your exposure categories.**
+*"Control"* | **See "Treated"**
+*Covariates* | 8 (age, sex, race, family poverty-to-income ratio, body mass index, marital status, educational attainment, and smoking status) are listed, **but there are many, many more in NHANES - a more appropriate list could certainly be much more inclusive.**
+*Data Source* | NHANES 2017-2020 (pre-pandemic)
+*Also...* | You should already have the data in R, if you're using NHANES data. **Do you need help in this regard?**. <br /> **In the methods section, you mention exploring potential effect modification by testing interaction terms. That's beyond the scope of this project. What I don't see is enough (or really any) detailed information about how you're going to use propensity score analyses.**
 
 [Back to Top](#table-of-contents)
 
