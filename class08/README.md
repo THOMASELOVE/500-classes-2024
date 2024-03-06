@@ -14,12 +14,14 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Today's Agenda
 
-Time | Topic(s)
+Part | Topic(s)
 -----------: | :-------------------------------------------------------------------------------------------
-9 - 9:30 | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main) <br /> Comments on Lab 3 from Leila, Project Proposals (draft 2) comments (on **Shared Drive**)
-9:30 - 10:10 | (1) Some Extensions to Propensity Matching <br /> (2) Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. <br /> (3) Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
-10:10 - 10:20 | Break
-10:20 - 11:00 | Rosenbaum Chapter 7 (Natural Experiments, Discontinuities and Instruments) discussion 
+A | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main), Comments on Lab 3 from Leila
+B | Project Proposals (draft 2) comments (on **Shared Drive**)
+C | (from slides) Some Extensions to Propensity Matching 
+D | Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. 
+E | Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
+F | Discussion of Rosenbaum **CI** Chapter 7 (Natural Experiments, Discontinuities and Instruments)
 
 ## Announcements
 
@@ -36,12 +38,6 @@ Time | Topic(s)
     - If you are not marked under *Planned Absences* on that page, I expect you to be in WRB 1217 from 8:30 AM until we are finished (see schedule for details.) Your colleagues deserve your attendance and feedback.
 6. In-class attendance has been disappointing recently. Do everything you can to make it to class in person after Spring Break, as Zoom will stop being a good option as I get quieter, starting with our next class. Thank you.
 
-## Additional readings about instruments (and instruments vs. propensity scores) from our [Sources page](https://github.com/THOMASELOVE/500-sources) include: 
-
-- Whitehouse Mark 2007 [Is an Economist Qualified to Solve Puzzle of Autism?](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Whitehouse%202007%20WSJ%20Economics%20and%20Autism.pdf) *Wall Street Journal*
-- Posner Micheal A. et al 2001 [Comparing Standard Regression, Propensity Score Matching and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*
-- Stukel Therese A. et al. 2007 [Analysis of Observational Studies in the Presence of Treatment Selection Bias: Effects of Invasive Cardiac Management on AMI Survival Using Propensity Score and Instrumental Variable Methods](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Stukel%20et%20al%202007%20JAMA.pdf) *Journal of the American Medical Association*
-
 ## Some Notes on Lab 3 from Leila Hojat
 
 - Most people are consistently doing very well!
@@ -50,3 +46,12 @@ Time | Topic(s)
 - Several students struggled with calculating Rubin's rule 2 from the `bal.table` results
 - Several students went with the twang ATT weights, and those that provided rationales gave me the impression that they didn't have a good understanding of the effective sample sizes
 - Other problems: forgetting to exponentiate and misinterpreting the results, calculating ATE instead of ATT, forgetting to use quasibinomial family
+
+## Additional readings about instruments (and instruments vs. propensity scores) from our [Sources page](https://github.com/THOMASELOVE/500-sources) include: 
+
+These should help you build on what you read about in Rosenbaum, Chapter 7, a bit.
+
+- Whitehouse Mark 2007 [Is an Economist Qualified to Solve Puzzle of Autism?](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Whitehouse%202007%20WSJ%20Economics%20and%20Autism.pdf) *Wall Street Journal*
+- Posner Micheal A. et al 2001 [Comparing Standard Regression, Propensity Score Matching and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*
+- Stukel Therese A. et al. 2007 [Analysis of Observational Studies in the Presence of Treatment Selection Bias: Effects of Invasive Cardiac Management on AMI Survival Using Propensity Score and Instrumental Variable Methods](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Stukel%20et%20al%202007%20JAMA.pdf) *Journal of the American Medical Association*
+
