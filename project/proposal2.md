@@ -17,14 +17,7 @@ The [schedule of project presentations is found here](https://github.com/THOMASE
 
 [Lent Mantshonyane](#lent-mantshonyane) | [Marie Masotya](#marie-masotya) | [Morgan McLoughlin](#morgan-mcloughlin) | [Lydia Mitchell](#lydia-mitchell) | [Hala Nas](#hala-nas) | [Anya Nazarenko](#anya-nazarenko)
 
-15. [Anthony Orsino](#anthony-orsino)
-16. [Aman Pande](#aman-pande)
-17. [Justin Robinson](#justin-robinson)
-18. [Sam Rodgers-Melnick](#sam-rodgers-melnick)
-19. [Miza Salim Hammoud](#miza-salim-hammoud)
-20. [Akhil S.G.](#akhil-sg)
-21. [Sriram Satyavolu](#sriram-satyavolu)
-22. [Karlo Toljan](#karlo-toljan)
+[Anthony Orsino](#anthony-orsino) | [Aman Pande](#aman-pande) | [Justin Robinson](#justin-robinson) | [Sam Rodgers-Melnick](#sam-rodgers-melnick) | [Miza Salim Hammoud](#miza-salim-hammoud) | [Akhil S.G.](#akhil-sg) | [Sriram Satyavolu](#sriram-satyavolu) | [Karlo Toljan](#karlo-toljan)
 
 ### Sara Alqahtani
 
