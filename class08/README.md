@@ -15,7 +15,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Today's Agenda
 
 Part | Topic(s)
------------: | :-------------------------------------------------------------------------------------------
+:----: | :-------------------------------------------------------------------------------------------
 A | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main), Comments on Lab 3 from Leila
 B | Project Proposals (draft 2) comments (on **Shared Drive**)
 C | (from slides) Some Extensions to Propensity Matching 
