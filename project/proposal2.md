@@ -331,15 +331,15 @@ Sam Rodgers-Melnick | Effectiveness of Music Therapy (MT) on Length of Stay and 
 Miza Salim Hammoud | Gender-Specific Quality of Life in Adults with Congenital Heart Disease (ACHD)
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 13) 2024-04-18 from 8:55 to 9:20 AM
-*Colleagues* | None
+*Colleagues* | **None? Really?**
 *Format* | Word/PDF
 *Research ?* | How does gender influence longitudinal patient-perceived health-related quality of life outcomes (HR-QoL) in adults with congenital heart disease (ACHD) following cardiac surgery?
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | 
+*Outcome* | Derived from a set of HR-QoL (Health-Related Quality of Life) questionnaires, specifically PROMIS 10 Mental and PROMIS 10 Physical subscales. **What does Location Tested mean in your table? Why are there footnote symbols in the table?**
+*"Treated"* | 198 females who underwent congenital heart surgery (**at the Cleveland Clinic?**) and have a diagnosis of ACHD and completed the HR-QoL questionnaires (**when did they do the questionnaires? Before or after the surgery, or a mix?**)
+*"Control"* | 378 males who underwent congenital heart surgery and have a diagnosis of ACHD and completed the HR-QoL questionnaires
+*Covariates* | Age, Race, Hispanic ethnicity, Hospital Length of Stay, Diagnosis (**are these yes/no or a multi-categorical set of options?**), Cardiopulmonary bypass time, BMI (**and also BMI categories?**), **Area Deprivation Index state deciles and national percentiles?** Comorbidities, Insurance Type (**may need to collapse**), Family History of CAD, Ejection fraction at discharge, Pre-operative NY Heart Functional Classification (I-IV).
+*Data Source* | CC Retrospective Chart Review involving patients from January 2022 to (**through?**) September 2023 (**STS CHSD registry role?**)
+*Also...* | **Where's your description of propensity matching in the Methods?** This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though. 
 
 [Back to Top](#table-of-contents)
 
@@ -356,7 +356,7 @@ Akhil S.G. | Telemedicine vs. Closing Time
 *"Control"* | Telemedicine encounter (1165 subjects)
 *Covariates* | *Patient* information: age, sex, insurance, distance from hospital in miles (**calculated from zipcodes? how do you have this if data are de-identified?**), race, language (**will you have meaningful variation?**) <br /> *Encounter* information: new/recurring visit, appointment scheduled time, duration of patient visit, diagnosis code (**ICD-10? Won't there be multiple codes?**) <br /> *Provider* information: type (nurse, physician, PA), clinician gender (M/F), experience (**via GradYear?**) specialty (**2 categories?**) and clinic ID (unique for each of 80 clinicians - this is **not** something you'll include in a propensity score.) **The thing that is definitely missing is any sense of how the provider feels about technology.**
 *Data Source* | A little vague. These are data from some EHR in the Western US on about 80 care providers (**not all physicians**) in a Department of Cardiology over a one-month period (February 2021.)
-*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though. Don't create fake null and alternative hypotheses - you're estimating an effect size here.
+*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though. **Don't create null and alternative hypotheses - you're estimating an effect size here, and that should be the focus**.
 
 [Back to Top](#table-of-contents)
 
