@@ -18,9 +18,9 @@ Part | Topic(s)
 :----: | :-------------------------------------------------------------------------------------------
 A | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main), Comments on Lab 3 from Leila
 B | Project Proposals (draft 2) comments (on **Shared Drive**)
-C | (from slides) Some Extensions to Propensity Matching 
-D | Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. 
-E | Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
+C | (Slides) Some Extensions to Propensity Matching 
+D | (Slides) Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. 
+E | (Slides) Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
 F | Discussion of Rosenbaum **CI** Chapter 7 (Natural Experiments, Discontinuities and Instruments)
 
 ## Announcements
@@ -47,6 +47,26 @@ F | Discussion of Rosenbaum **CI** Chapter 7 (Natural Experiments, Discontinuiti
 - Several students went with the twang ATT weights, and those that provided rationales gave me the impression that they didn't have a good understanding of the effective sample sizes
 - Other problems: forgetting to exponentiate and misinterpreting the results, calculating ATE instead of ATT, forgetting to use quasibinomial family
 
+## Rosenbaum Chapter 7 discussion
+
+Natural Experiments, Discontinuities and Instruments
+
+- Bits and Pieces of Random Assignment in an Otherwise Biased World
+    - "Nature has its own lotteries"  
+- Nature's Natural Experiments
+    - The Genes of Siblings (Vaidya et al. on Graves' disease)
+    - Hypothetical Siblings
+    - "A natural experiment is an attempt to avoid bias in treatment assignment by finding some natural setting in which treatments are nearly randomized."
+- Discontinuity Designs (Thislethwaite and Campbell) as Natural Experiments
+    - Assignment to treatment ends and assignment to control begins abruptly. Let's look at moments just before/after the "door slams shut."
+    - DiNardo and Lee on the effect of unionization on wages
+- Paul Holland's randomized encouragement experiment
+    - What is the effect of encouragement? (randomized)
+    - What is the effect of doing what you were encouraged to do? (trickier)
+- Instrumental Variables and the Complier Average Causal Effect
+    - Angrist, Imbens and Rubin set out five main characteristics/assumptions of a solid instrument
+    - "We cannot recognize a complier when we see one."
+
 ## Additional readings about instruments (and instruments vs. propensity scores) from our [Sources page](https://github.com/THOMASELOVE/500-sources) include: 
 
 These should help you build on what you read about in Rosenbaum, Chapter 7, a bit.
@@ -54,4 +74,4 @@ These should help you build on what you read about in Rosenbaum, Chapter 7, a bi
 - Whitehouse Mark 2007 [Is an Economist Qualified to Solve Puzzle of Autism?](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Whitehouse%202007%20WSJ%20Economics%20and%20Autism.pdf) *Wall Street Journal*
 - Posner Micheal A. et al 2001 [Comparing Standard Regression, Propensity Score Matching and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*
 - Stukel Therese A. et al. 2007 [Analysis of Observational Studies in the Presence of Treatment Selection Bias: Effects of Invasive Cardiac Management on AMI Survival Using Propensity Score and Instrumental Variable Methods](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Stukel%20et%20al%202007%20JAMA.pdf) *Journal of the American Medical Association*
-
+- Dubner Stephen J and Levitt Steven D *Freakonomics* - [the books](https://freakonomics.com/books/) and also [the (archived) blog](https://www.freakonomics.com/blog/) alonng with [their podcasts](https://freakonomics.com/about/), etc.
