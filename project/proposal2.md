@@ -108,14 +108,14 @@ Seth Bauer | Vasopressor Cessation Order in the De-escalation Phase of Septic Sh
 Chris Benson | Income inequality and Infant mortality in US counties
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 14) 2024-04-25 from 8:55 to 9:20 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
+*Colleagues* | None
+*Format* | Word/PDF
+*Research ?* | Do US counties with smaller levels of income inequality have lower infant mortality rates compared to those with higher levels of income inequality? (**Edited a bit by TEL**)
+*Outcome* | Infant Mortality based on what is reported in CHR 2023 (**Note: This should not be, in fact, a cross-sectional study, in that your outcome should be measured later than your exposure or covariates.**)
+*"Treated"* | 304 counties in the top 25% of county level income inequality (most unequal) based on what was reported in CHR 2021
+*"Control"* | 607 counties in the bottom 50% of county level income inequality (least unequal) based on what was reported in CHR 2021
+*Covariates* | Outcome from CHR 2023, exposure and 8 covariates taken from CHR 2021 report. **You need to verify the years when the data were actually gathered, not the years when they were included in CHR. The 2023 CHR report shows [Infant Mortality describing data from 2014-2020](https://www.countyhealthrankings.org/health-data/county-health-rankings-measures). The 2021 CHR report (see <https://www.countyhealthrankings.org/sites/default/files/media/document/2021%20Analytic%20Documentation.pdf>) measures income inequality based on data from the American Community Survey in 2015-2019. So that's a problem, right? You either need a new outcome, or you need to find covariates based on a long, long time ago, and CHR data only go back to 2010 - see <https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/national-data-documentation-2010-2019>.**
+*Data Source* | County Health Rankings in various years
 *Also...* | 
 
 [Back to Top](#table-of-contents)
@@ -125,14 +125,14 @@ Chris Benson | Income inequality and Infant mortality in US counties
 Jesse Chen | Hypertension and Non-Alcoholic Fatty Liver Disease (NAFLD) Among Non-Obese US Adults
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 12) 2024-04-11 from 8:35 to 9:00 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
+*Colleagues* | None
+*Format* | Word/PDF
+*Research ?* | Is hypertension an independent risk factor for NAFLD among non-obese US adults? **I don't really know what you mean by an independent risk factor - ideally we'd be looking at a causal effect estimate here.**
+*Outcome* | NAFLD diagnosis (binary) based on whether the US Fatty Liver Index is 30 or higher (index depends on age, race/ethnicity, waist circumference, gamma-glutamyl transferase (GGT) level, fasting insulin level and fasting glucose) **I still don't know why you're not also looking at the actual index as a quantitative outcome.**
+*"Treated"* | 699 non-obese subjects with hypertension (mean SBP > 130 or mean DBP > 90 based on three readings.)
+*"Control"* | 1215 non-obese subjects without hypertension as defined in the "treated" group
+*Covariates* | Survey weights, Sex, BMI, Albumin, Serum Creatinine, LDL and HDL, Alkaline Phosphatase, Blood Urea Nitrogen, Triglyceride, Aspartate Transaminase, Globulin, Alanine Transaminase, Uric Acid, Total Cholesterol. (**except you cannot include both Total Cholesterol and the set of measurements (HDL/LDL/Triglycerides) that make up total cholesterol.) Also, while you are welcome to include the weights as a covariate in your propensity score in Project A, I do not want you to incorporate the survey weights into your models - that will leave you with a difficult-to-manage project. If you want to publish the work later, then work out how to weight in this way after matching after the class.**
+*Data Source* | NHANES data in 2015-2016 and 2017-2018
 *Also...* | 
 
 [Back to Top](#table-of-contents)
@@ -142,9 +142,9 @@ Jesse Chen | Hypertension and Non-Alcoholic Fatty Liver Disease (NAFLD) Among No
 Sid Dugar | Do early echocardiograms during sepsis and septic change outcomes?
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 14) 2024-04-25 from 9:55 to 10:20 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 1
+*Format* | Word/PDF
+*Research ?* | Does performing an echocardiogram early in the course of sepsis and septic shock alter hospital mortality?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -159,9 +159,9 @@ Sid Dugar | Do early echocardiograms during sepsis and septic change outcomes?
 Ava Fan | Imaging extranodal extension (iENE) as a prognostic factor in HPV+ oropharyngeal cancer
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 13) 2024-04-18 from 8:30 to 8:55 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 2
+*Format* | Word/PDF
+*Research ?* | 1. Does the presence of iENE lead to increased rates of disease recurrence? 2. Does the presence of iENE lead to worse overall survival?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -176,9 +176,9 @@ Ava Fan | Imaging extranodal extension (iENE) as a prognostic factor in HPV+ oro
 Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB disease
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 13) 2024-04-18 from 9:20 to 9:45 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 3
+*Format* | Quarto (thanks!)
+*Research ?* | 1. What is the causal effect of tobacco smoking on TB disease? <br /> 2. What is the causal effect of exposure to biomass smoke through cooking on developing TB?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -193,9 +193,9 @@ Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB
 Marie Masotya | Asthma and School Absenteeism in Children on Medicaid in Cuyahoga County
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 15) 2024-05-02 from 9:00 to 9:25 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 4
+*Format* | Quarto (thanks!)
+*Research ?* | Do children with an active asthma diagnosis meaningfully differ from those without such a diagnosis in (1) chronic school absenteeism (2) preventative care utilization?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -210,9 +210,9 @@ Marie Masotya | Asthma and School Absenteeism in Children on Medicaid in Cuyahog
 Morgan McLoughlin | Maternal Depression and Parent-Training Participation and Engagement
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 12) 2024-04-11 from 9:25 to 9:50 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 3
+*Format* | Word/PDF
+*Research ?* | 1. Does depression predict decreased likelihood of participating in the Family Check-Up intervention? <br /> 2. Does depression predict decreased engagement time among parents who do participate in the Family Check-Up intervention?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -227,9 +227,9 @@ Morgan McLoughlin | Maternal Depression and Parent-Training Participation and En
 Lydia Mitchell | Health insurance and premature death in US adults
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 14) 2024-04-25 from 10:45 to 11:10 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | None
+*Format* | Word/PDF
+*Research ?* | Does a lack of health insurance for adults living in America change the likelihood of experiencing premature death?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -244,9 +244,9 @@ Lydia Mitchell | Health insurance and premature death in US adults
 Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volume Reduction
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 14) 2024-04-25 from 10:20 to 10:45 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | None
+*Format* | Quarto (thanks!)
+*Research ?* | Is bronchoscopic lung volume reduction associated with a higher risk of developing post-procedural (1) acute respiratory failure or (2) pneumothorax in adult patients with emphysema undergoing bronchoscopic lung volume reduction, compared to lung volume reduction surgery?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -261,9 +261,9 @@ Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volu
 Anya Nazarenko | Are men less likely to seek mental health treatment services?
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 13) 2024-04-18 from 10:20 to 10:45 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | None 
+*Format* | **Both?**
+*Research ?* | Are men less likely than women to report seeing a mental health professional in the past year?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -278,9 +278,9 @@ Anya Nazarenko | Are men less likely to seek mental health treatment services?
 Anthony Orsino | High School Drug Distribution and Social Health
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 12) 2024-04-11 from 10:00 to 10:25 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | **None listed, but don't you have collaborators on this?**
+*Format* | Quarto (thanks!)
+*Research ?* | Are high school students with strong social ties to peers meaningfully more or less likely to encounter drugs at school compared to those who lack those ties?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -295,9 +295,9 @@ Anthony Orsino | High School Drug Distribution and Social Health
 Aman Pande | Interstitial lung diseases and immunosuppressant medications
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 14) 2024-04-25 from 9:20 to 9:45 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 1
+*Format* | Word/PDF
+*Research ?* | Does treatment with immunosupressant medication in patients with interstitial lung disease other than IPF alter (1) the rate of developing Progressive Pulmonary Fibrosis (PPF) or (2) the trajectory of forced vital capacity?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -312,9 +312,9 @@ Aman Pande | Interstitial lung diseases and immunosuppressant medications
 Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular Septal Defects (AVSD)
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 13) 2024-04-18 from 9:55 to 10:20 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 6
+*Format* | Quarto (thanks!)
+*Research ?* | Is a biventricular repair strategy more useful in patients diagnosed with unbalanced AVSD as compared to those diagnosed with balanced AVSD?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -329,9 +329,9 @@ Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular S
 Sam Rodgers-Melnick | Effectiveness of Music Therapy (MT) on Length of Stay and Opioid Utilization
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 15) 2024-05-02 from 10:00 to 10:25 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 8
+*Format* | Word/PDF
+*Research ?* | Are patients who receive at least 2 MT interventions during their hospitalization (1) discharged from the hospital sooner or (2) exposed to less opioid pain medication than similar patients who did not receive MT?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -346,9 +346,9 @@ Sam Rodgers-Melnick | Effectiveness of Music Therapy (MT) on Length of Stay and 
 Miza Salim Hammoud | Gender-Specific Quality of Life in Adults with Congenital Heart Disease (ACHD)
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 13) 2024-04-18 from 8:55 to 9:20 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | None
+*Format* | Word/PDF
+*Research ?* | How does gender influence longitudinal patient-perceived health-related quality of life outcomes (HR-QoL) in adults with congenital heart disease (ACHD) following cardiac surgery?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -363,9 +363,9 @@ Miza Salim Hammoud | Gender-Specific Quality of Life in Adults with Congenital H
 Akhil S.G. | Telemedicine vs. Closing Time
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 12) 2024-04-11 from 9:00 to 9:25 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 2
+*Format* | Word/PDF
+*Research ?* | Does the mode of encounter (telemedicine vs. in-person visit) have a causal effect on the time taken to close a case after the patient leaves?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -380,9 +380,9 @@ Akhil S.G. | Telemedicine vs. Closing Time
 Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 12) 2024-04-11 from 10:25 to 10:50 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | None
+*Format* | Word/PDF
+*Research ?* | Are depression rates similar in US adults who experience low vs. high food insecurity? **You really need to write your research question as a question, that ends with a question mark. All you have here is an objective that I've tried to build into an RQ.**
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
@@ -397,9 +397,9 @@ Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
 Karlo Toljan | Posterior reversible encephalopathy syndrome (PRES) and immunosuppressant history
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 15) 2024-05-02 from 10:25 to 10:50 AM
-*Colleagues* | 
-*Format* | 
-*Research ?* | 
+*Colleagues* | Yes, 4
+*Format* | Word/PDF
+*Research ?* | In adults diagnosed with PRES, is a history of immunosuppression use at the time of diagnosis associated with fewer discharges to home following the hospitalization during which PRES was diagnosed?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
