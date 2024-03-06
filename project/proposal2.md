@@ -220,7 +220,7 @@ Lydia Mitchell | Health insurance and premature death in US adults
 *"Control"* | 
 *Covariates* | 
 *Data Source* | 
-*Also...* | 
+*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
 
 [Back to Top](#table-of-contents)
 
@@ -237,7 +237,7 @@ Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volu
 *"Control"* | 
 *Covariates* | 
 *Data Source* | 
-*Also...* | 
+*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
 
 [Back to Top](#table-of-contents)
 
@@ -288,7 +288,7 @@ Aman Pande | Interstitial lung diseases and immunosuppressant medications
 *"Control"* | 
 *Covariates* | 
 *Data Source* | 
-*Also...* | 
+*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
 
 [Back to Top](#table-of-contents)
 
@@ -305,7 +305,7 @@ Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular S
 *"Control"* | 
 *Covariates* | 
 *Data Source* | 
-*Also...* | 
+*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
 
 [Back to Top](#table-of-contents)
 
