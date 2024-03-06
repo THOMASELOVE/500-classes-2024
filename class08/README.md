@@ -22,10 +22,10 @@ Class | Date | PDF | Quarto .qmd | Recording
     - Our first presentations will be at our next class (2024-03-21) and involve Sid, Hala and Sriram as first readers, and Jesse, Aman and Marie as second readers. Be sure that the six of you meet [all deadlines and specifications for submitting your work](https://thomaselove.github.io/500-2024/osia.html#presentation-submission-details-for-the-in-class-talks).
     - In particular, the first reader slides (Sid, Hala, Sriram) should be on our **Shared Google Drive** in the appropriate folder (`osia / 2024-03-21 (Class 9) Submit OSIA slides for Live Presentations here`) no later than 1 PM on Wednesday 2024-03-20.
     - The second reader slides (Jesse, Aman, Marie) should be on our **Shared Google Drive** in that same folder (`osia / 2024-03-21 (Class 9) Submit OSIA slides for Live Presentations here`) no later than 7:30 AM on Thursday 2024-03-21.
-    - In-class attendance has been disappointing of late. Do everything you can to make it to class in person after Spring Break. Thank you.
-3. [Lab 4](https://thomaselove.github.io/500-2024/lab4.html) is also due (submit to Canvas) at the start of class on Thursday 2024-03-21.
-4. The [Project Presentation Schedule is now available](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md). Please note your time and date for submitting materials and for giving your presentations. I expect every student to provide feedback on all projects except their own for the sessions they can attend (there will be no Zoom in the last four classes.)
+4. [Lab 4](https://thomaselove.github.io/500-2024/lab4.html) is also due (submit to Canvas) at the start of class on Thursday 2024-03-21.
+5. The [Project Presentation Schedule is now available](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md). Please note your time and date for submitting materials and for giving your presentations. I expect every student to provide feedback on all projects except their own for the sessions they can attend (there will be no Zoom in the last four classes.)
     - If you are not marked under *Planned Absences* on that page, I expect you to be in WRB 1217 from 8:30 AM until we are finished (see schedule for details.) Your colleagues deserve your attendance and feedback.
+6. In-class attendance has been disappointing recently. Do everything you can to make it to class in person after Spring Break, as Zoom will stop being a good option as I get quieter, starting with our next class. Thank you.
 
 ## Some Notes on Lab 3 from Leila Hojat
 
