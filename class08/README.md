@@ -17,7 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 Part | Topic(s)
 :----: | :-------------------------------------------------------------------------------------------
 A | Discussion of Announcements, [OSIA setup](https://github.com/THOMASELOVE/500-osia-2024/tree/main), Comments on Lab 3 from Leila
-B | Project Proposals (draft 2) comments (not complete - see [this link](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal2.md))
+B | Project Proposals (draft 2) comments (*incomplete* - see [this link](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal2.md))
 C | (Slides) Some Extensions to Propensity Matching, including Full Matching
 D | (Slides) Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
 E | Discussion of Rosenbaum **Causal Inference** Chapter 7 (Natural Experiments, Discontinuities and Instruments) <br /> Note supplemental slides on instrumental variables at the end of the Class 08 Slides.
