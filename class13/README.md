@@ -21,7 +21,7 @@ Date | Start | Presenter | Title
 
 - *Absent*: None.
 
-# Next Time (Class 14)
+# Next Time (Class 14: 2024-04-25) Project Presentations
 
 - Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-24 at Noon.)
 
