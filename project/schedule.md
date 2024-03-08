@@ -26,7 +26,6 @@ Date | Start | Presenter | Title
 04-11 | 10:50 AM | Dr. Love | Ten minute wrap up.
 
 - *Planned Absences*: John Barron, Chris Benson, Sam Rodgers-Melnick
-- *Availability Unclear to provide feedback*: Sid Dugar? Hala Nas?
 
 # Thursday 2024-04-18 from 8:30 AM to 11:10 AM (Class 13)
 
@@ -77,5 +76,5 @@ Date | Start | Presenter | Title
 05-02 | 10:25 AM | John Barron | Lung Transplant Survival in Veterans of the US Armed Forces
 05-02 | 10:50 AM | Dr. Love | Ten minute wrap up.
 
-- *Planned Absences*: Justin Robinson, Sriram Satyavolu
+- *Planned Absences*: Hala Nas, Justin Robinson, Sriram Satyavolu
 
