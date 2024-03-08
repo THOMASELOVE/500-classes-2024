@@ -21,7 +21,7 @@ Date | Start | Presenter | Title
 
 - *Absent*: Justin Robinson
 
-# Next Time (Class 15)
+# Next Time (Class 15: 2024-05-02) Project Presentations
 
 - Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-05-01 at Noon.)
 
