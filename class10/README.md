@@ -6,8 +6,6 @@ Today's class begins at 9 AM in WRB 1217.
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `500-help` at `case` dot `edu`
 
-## Today's Slides
-
 Class | Date | Recording
 :---: | :--------: | :-------------:
 10 | 2024-03-28 | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
