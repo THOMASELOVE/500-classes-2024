@@ -8,9 +8,9 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 
 ## Today's Slides
 
-Class | Date | PDF | Quarto .qmd | Recording
-:---: | :--------: | :------: | :------: | :-------------:
-10 | 2024-03-28 | **[Slides 10](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides10.pdf)** | **[Code 10](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides10.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+Class | Date | Recording
+:---: | :--------: | :-------------:
+10 | 2024-03-28 | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 # Today's Agenda
 
