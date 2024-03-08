@@ -14,9 +14,19 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Today's Agenda
 
+- OSIA presentations listed below
+- Discussion of Rosenbaum **Causal Inference** (remainder of the book)
+- Discussion of the Project Updates
 
+## Today's OSIA presentations
 
-# Next Time: (Class 12)
+1st Reader | 2nd Reader |  Manuscript 
+:-----------: | :-----------: | :-----------------------------------------------------------------------
+Anya Nazarenko | Lent Mantshonyane | Hynes DM 2023 [Risk of Suicide‑Related Outcomes After SARS‑COV‑2 Infection: Results from a Nationwide Observational Matched Cohort of US Veterans](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Hynes_2023.pdf), with [supplement](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Hynes_2023_supplement.pdf) *JGIM*
+Akhil SG | Sara Alqahtani | Lysyakov M and Viswanathan S 2023 [Threatened by AI: Analyzing Users' Responses to the Introduction of AI in a Crowd-Sourcing Platform](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Lysyakov_2023.pdf) with [supplement](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Lysyakov_2023_supplement.pdf) *Information Systems Research*
+Seth Bauer | Ava Fan | Xu J et al. 2023 [Timing of vasopressin initiation and mortality in patients with septic shock: analysis of the MIMIC-III and MIMIC-IV databases](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Xu_2023.pdf) *BMC Infectious Diseases*
+
+# Next Time: (Class 12: 2024-04-11) Project Presentations
 
 - Speakers: Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-10 at Noon.)
 
