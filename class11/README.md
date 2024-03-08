@@ -14,3 +14,21 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Today's Agenda
 
+
+
+# Next Time: (Class 12)
+
+- Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-10 at Noon.)
+
+Date | Start | Presenter | Title
+------: | -------: | :----------------: | :----------------------------------------------------------
+04-11 | 8:30 AM | Class begins | Introduction from Dr. Love
+04-11 | 8:35 AM | Jesse Chen | Hypertension and Non-Alcoholic Fatty Liver Disease Among Non-Obese US Adults
+04-11 | 9:00 AM | Akhil S.G. | Telemedicine vs. Closing Time
+04-11 | 9:25 AM | Morgan McLoughlin | Maternal Depression and Parent-Training Participation and Engagement
+04-11 | 9:50 AM | -- | *Ten minute break*
+04-11 | 10:00 AM | Anthony Orsino | High School Drug Distribution and Social Health
+04-11 | 10:25 AM | Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
+04-11 | 10:50 AM | Dr. Love | Ten minute wrap up.
+
+- *Absent*: John Barron, Chris Benson, Hala Nas, Sam Rodgers-Melnick
