@@ -19,7 +19,7 @@ Date | Start | Presenter | Title
 04-11 | 10:25 AM | Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
 04-11 | 10:50 AM | Dr. Love | Ten minute wrap up.
 
-- *Absent*: John Barron, Chris Benson, Hala Nas, Sam Rodgers-Melnick
+- *Absent*: John Barron, Chris Benson, Sam Rodgers-Melnick
 
 # Next Time: (Class 13: 2024-04-18) Project Presentations
 
