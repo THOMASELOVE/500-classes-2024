@@ -18,7 +18,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Next Time: (Class 12)
 
-- Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-10 at Noon.)
+- Speakers: Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-10 at Noon.)
 
 Date | Start | Presenter | Title
 ------: | -------: | :----------------: | :----------------------------------------------------------
