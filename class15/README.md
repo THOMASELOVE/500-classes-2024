@@ -19,5 +19,5 @@ Date | Start | Presenter | Title
 05-02 | 10:25 AM | John Barron | Lung Transplant Survival in Veterans of the US Armed Forces
 05-02 | 10:50 AM | Dr. Love | Ten minute wrap up.
 
-- *Planned Absences*: Justin Robinson, Sriram Satyavolu
+- *Planned Absences*: Hala Nas, Justin Robinson, Sriram Satyavolu
 
