@@ -21,7 +21,7 @@ Date | Start | Presenter | Title
 
 - *Absent*: John Barron, Chris Benson, Hala Nas, Sam Rodgers-Melnick
 
-# Next Time: Class 13
+# Next Time: (Class 13: 2024-04-18) Project Presentations
 
 - Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation. (Wednesday 2024-04-17 at Noon.)
 
