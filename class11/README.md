@@ -42,3 +42,4 @@ Date | Start | Presenter | Title
 04-11 | 10:50 AM | Dr. Love | Ten minute wrap up.
 
 - *Absent*: John Barron, Chris Benson, Hala Nas, Sam Rodgers-Melnick
+
