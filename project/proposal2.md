@@ -159,8 +159,9 @@ Ava Fan | Imaging extranodal extension (iENE) as a prognostic factor in HPV+ oro
 *"Control"* | 
 *Covariates* | 
 *Data Source* | 
-*Also...* | 
-*Leila's <br /> Comments* | 
+*Also...* | In terms of whether or not to treat an outcome based on time as binary or time-to-event, that really depends as much as anything on how much information you have available to you about times and (in particular) censoring. In this case, I'm not seeing an especially problematic issue with keeping this as binary yet, but maybe when I learn a bit more, I might have a different reaction.
+*Leila's <br /> Comments* | Your research questions don't seem to match your outcomes exactly. Are you interested in disease recurrence or distant mets in addition to overall survival? Also, I'm more used to seeing the outcome as all-cause mortality rather than survival, but maybe this is something in oncology literature I'm not familiar with. Any way for you to get some additional baseline data to include in your ps model? Will review more and let you know if I have additional comments, good work.- Including distant mets as a time to event outcome seems odd to me since I usually consider survival analysis more applicable to situations in which the outcome is expected to occur for most or all patients eventually. Would defer to Dr. Love on this approach vs logistic regression (**see my comments in Also above**).  <br /> Can you clarify whether the iENE negative patients are also ENE negative? I would expect yes given that ENE patients probably have more advanced disease but wanted to confirm. <br /> Do you have the information on whether the iENE was identified by CT vs MRI? I would expect that MRI would be more sensitive and thus may potentially pick up patients earlier.
+- Do you have any data regarding other comorbidities? These may affect things like ability to tolerate or be offered treatment or likelihood of developing other complications. Chronic kidney, liver, heart disease would seem important at least.
 
 [Back to Top](#table-of-contents)
 
@@ -178,7 +179,7 @@ Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
-*Leila's <br /> Comments* | 
+*Leila's <br /> Comments* | You describe several different cohorts in your data source. It seems that the LTBI outcome group screened positive at baseline. Is this the case for the TB disease/active TB group as well? In other words, are you excluding the patients that were negative at baseline from your study? And then if the only possible outcomes are TB infection or TB disease, are you also excluding the group who never developed infection (resistors)? <br /> For your exposure, was there no response option for currently smoking? Wouldn't you expect that some of the individuals in the do not smoke group actually do not/have never smoked? If so, it might be worth dropping this group since it may dilute the effect of the exposure. If there is a currently smoking group that isn't mentioned, I would include those. If you do plan to include the do not smoke group, perhaps you could drop the group for a stability analysis at least. <br /> For the biomass exposure, any idea about what the others group might include? How large is this group? Again, I would consider dropping perhaps depending on the size of the group or else doing a stability analysis without this group. <br /> You **definitely** don't want to include height and weight separately if you are including BMI. <br /> Do you have information on other comorbidities which could contribute to increased risk of developing active TB disease? These could include DM, renal disease, on immunosuppressants, chronic lung disease, malignancy. It's ok if not but might consider this a limitation.
 
 [Back to Top](#table-of-contents)
 
@@ -196,7 +197,7 @@ Marie Masotya | Asthma and School Absenteeism in Children on Medicaid in Cuyahog
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
-*Leila's <br /> Comments* | 
+*Leila's <br /> Comments* | I really like the concept of merging these 2 databases and think this will be a great study. I assume you don't know how many of the 9314 patients with asthma in the medicaid database have school records since you don't have that database yet, but assuming you have more than the 500 and 2000 you are looking for, you'll want to specify that you took a random sample. <br /> I was trying to look up additional data that you might want to use from the claims dataset and came across this CDC page that seems like they wrote for you: https://www.cdc.gov/asthma/data-analysis-guidance/medicaid-claims-data.htm. <br /> Additional data points I would be really interested in are asthma controller meds, hospitalizations, non primary care visits, pulmonary or allergy/immunology specialist visits (you noted specialty but not sure if this is any specialists), any more specific asthma diagnoses like severe or persistent, infections especially upper respiratory infections and pneumonia, concomitant chronic conditions especially allergies, eczema, and immune deficiency. You are including prematurity so you might also consider prior diagnosis of bronchopulmonary dysplasia. Finally I would also consider vaccine history other than flu. Again, not sure what's feasible, what you have available, and most of this would be things to consider longer term for publication purposes. <br /> Regarding your outcome, in addition to the binary 10% cutoff it could also be interesting to look at the percentage as a continuous variable. Are there specific established outcomes associated with the 10% rate, for example standardized test scores, college acceptance, completing school?
 
 [Back to Top](#table-of-contents)
 
@@ -214,7 +215,7 @@ Morgan McLoughlin | Maternal Depression and Parent-Training Participation and En
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
-*Leila's <br /> Comments* | 
+*Leila's <br /> Comments* | My main question is when the maternal depression was assessed. I would expect that this probably occurred during the first visit? If so, then you may need to modify the primary outcome since all patients would have included at least one visit. <br /> For the level of engagement, how is this measured? Is this a total visit length? <br /> Any way for you to be able to pull in more covariates for your ps model? Will eventually need more detailed description of some of the covariates you already have, as well, primarily the behavior problems and level of father involvement.
 
 [Back to Top](#table-of-contents)
 
@@ -232,7 +233,7 @@ Lydia Mitchell | Health insurance and premature death in US adults
 *Covariates* | 
 *Data Source* | 
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
-*Leila's <br /> Comments* | 
+*Leila's <br /> Comments* | Biggest issue I see is that you are not going to be able to use the 2023 data set alone with these variables. The 2023 report collected premature death data between 2018 and 2020, and the uninsured data came from 2020. You'll need to refer back to an earlier report and use the uninsured county level data from then if that is going to be your exposure. You might also want to get some of your other covariates from earlier reports as well. <br /> Otherwise it looks like you talked with Dr. Love about identifying specific treatment and control groups by including a high uninsured rate group and a low uninsured rate group, which sounds fine. I would like to see a stronger rationale for the exposure and the outcome. Right now it reads that you are interested in seeing what the exposure does to the outcome and that you wanted to pick things that could be compared across states, but that doesn't tell us why you think these are meaningful. Also we need a specific list of covariates that you plan to include in the propensity model. There are many more to include than only the 4 you mentioned (household income, employment, food insecurity, obesity). <br /> It feels odd to say in your research question that there may be an increased or decreased likelihood of premature death; maybe rephrase as something like: Are US counties with a greater proportion of uninsured adults associated with having a higher rate of age-adjusted premature death? <br /> Refer to the word "data" as plural (i.e., "the data are" instead of "the data is") <br /> Your primary exposure is high level uninsured status, not percentage of adults that are uninsured <br /> I would not say that "the project will resemble an observational, population-based descriptive study." This is an observational study and you are doing more than just descriptive analysis.
 
 [Back to Top](#table-of-contents)
 
@@ -249,8 +250,8 @@ Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volu
 *"Control"* | 
 *Covariates* | 
 *Data Source* | 
-*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
-*Leila's <br /> Comments* | 
+*Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though. Hala has responded in detail to several of Leila's comments already on Canvas, and thanks for that. 
+*Leila's <br /> Comments* | Interesting study, nice diagrams. What is the time frame in which you are evaluating the occurrence of the outcomes of interest? Would time to event outcomes be helpful here instead of looking at them as binary? Any collaborators? 
 
 [Back to Top](#table-of-contents)
 
@@ -260,15 +261,15 @@ Anya Nazarenko | Are men less likely to seek mental health treatment services?
 :--------------: | :--------------------------------------------------------------------------------------------------
 *Presenting* | (Class 13) 2024-04-18 from 10:20 to 10:45 AM
 *Colleagues* | None 
-*Format* | **Both?**
+*Format* | **Both?** (proposal is Word/PDF, some code in Quarto)
 *Research ?* | Are men less likely than women to report seeing a mental health professional in the past year?
 *Outcome* | 
 *"Treated"* | 
 *"Control"* | 
 *Covariates* | 
 *Data Source* | 
-*Also...* | 
-*Leila's <br /> Comments* | 
+*Also...* | It's fine to incorporate the sampling weight as a covariate included in the propensity score model, but I would not, for this project, incorporate the sampling weights into either your matched or double robust outcomes analyses.
+*Leila's <br /> Comments* | Cool conceptual model. You use both sex and gender in the report, need to specify which one you mean especially given that this is the specific exposure of interest. I think Dr. Love will not want you to use the sampling weights but will let him comment (see **Also above**. Agree with your comments about the timeline but seems you did your best to mitigate this. I will review more and let you know if I have additional comments. Good job. <br /> I see country of birth is binary, is this US vs not US? Would consider ethnicity in addition to race. Other variables could be interesting to include for example regarding access to care, other preventative care.
 
 [Back to Top](#table-of-contents)
 
@@ -286,7 +287,7 @@ Anthony Orsino | High School Drug Distribution and Social Health
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
-*Leila's <br /> Comments* | 
+*Leila's <br /> Comments* | It might be nice interesting to include a proposed DAG/conceptual framework, maybe for publication purposes (even though **Dr. Love never understands them.**) There are so many potential competing factors here which the 304 variables might be helpful in sorting out, but at the same time I think it's unlikely that including all of them would be the best strategy. I would take the time to make sure you understand what they all mean, how they are derived, their utility for your study.
 
 [Back to Top](#table-of-contents)
 
@@ -304,7 +305,7 @@ Aman Pande | Interstitial lung diseases and immunosuppressant medications
 *Covariates* | 
 *Data Source* | 
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
-*Leila's <br /> Comments* | 
+*Leila's <br /> Comments* | I am mainly concerned about your primary outcome being binary for the development of PPF if the follow-up time might be different for different patients, since there are no requirements for when the second PFT has to occur. For example, it doesn't sound like there would be a way to distinguish a patient who only had a second PFT at 3 months who is likely going to be PPF negative from a patient whose follow-up was a year or more later. Also, you mention that the rate of developing fibrosis in your cohort is estimated as 25-35%, but over what time frame? Seems that the window might be relatively short for the time period you are considering. Your secondary outcome may address some of these issues, but I think this would assume that development of fibrosis is linear. In other words, it's ok if you think that you can use the change in FVC over 3 months to extrapolate the change at 12 months, but you would be assuming that the change occurs at a steady rate over that time and this may be hard to justify unless you have studies to support this. <br /> Given that you have a relatively large cohort still, would it be possible to identify patients who had follow-up PFTs within a similar time frame, for example 1 year, and focus on those?
 
 [Back to Top](#table-of-contents)
 
@@ -322,7 +323,7 @@ Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular S
 *Covariates* | 
 *Data Source* | 
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
-*Leila's <br /> Comments* | 
+*Leila's <br /> Comments* | Agree that all-cause mortality makes more sense. If part of your research question is to determine if age, BSA, sex, baseline echo variables influences outcomes, perhaps you would want to include these in your outcome model so that you can provide odds ratios. I'm a little confused by your groups. Is the exposure the surgery or the presence of balanced vs unbalanced AVSD? It sounds like maybe you want the exposure to be surgery, and that AVSD type is something you want to include as a covariate in your ps model, and likely also in your outcome model. Though you might run into some challenges with your propensity model with only 45 in the unbalanced AVSD group (that is, the unbalanced group might be unbalanced :/ ). <br /> Other questions/comments: Would help to provide more background on the difference between balanced and unbalanced AVSD. Do you have more specifics about premature, as in number of weeks premature? You mention genetic abnormalities such as Down syndrome, so might be helpful to include this information if you have it. Any other complications or exposures during pregnancy that would be important to include or mention? For example nicotine use or cocaine use, excessive bleeding or other labor complications? Is the timing of surgery important, or does the procedure usually occur around the same time if surgery is decided on?
 
 [Back to Top](#table-of-contents)
 
@@ -340,7 +341,7 @@ Sam Rodgers-Melnick | Effectiveness of Music Therapy (MT) on Length of Stay and 
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
-*Leila's <br /> Comments* | 
+*Leila's <br /> Comments* | I would consider additional factors which may affect the outcomes if you can get the data, for example dispo (dispo to SNF vs home might delay discharge), primary team, duration of hospital stay at the time of the exposure, primary reason for hospitalization. Also I think you would want to know about any chronic pain regimen if you haven't already accounted for that. Great work, looking forward to your findings.
 
 [Back to Top](#table-of-contents)
 
