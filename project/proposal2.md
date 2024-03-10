@@ -33,7 +33,8 @@ Sara Alqahtani | Cybersecurity Breaches, Corporate Governance and Operational Pe
 *"Control"* | 92395 companies which have not experienced a cybersecurity breach
 *Covariates* | Revenue, Net Income, Book Value, Total Assets, Altman Z-score indicator of distress, Beneish M-score indicator of earnings manipulation risk, Market capitalization, Stock price, significant change in audit fees (**most are specified as one year prior to the breach, which again leaves me wondering how you assess this for the "untreated" group.**)
 *Data Source* | Audit Analytics 2000-Feb 2024 records
-*Also...* | -
+*Also...* | After class, we discussed how to adjust this work, and Sara wrote back with some details on a revised plan, which I think will work.
+*Leila's <br /> Comments* | This sounds like a study that would generate interest across many groups, though I think it would be more compelling to know what types of companies are being included. Is there a sector variable that could be included? <br /> I am unclear about the time point you are using for the companies in the control group that did not experience a breach. Is there a variable you could include that would somehow allow you to match companies at a similar time point, maybe something like year company began submitting data? Also seems that you would want to include the year as a covariate since broader economic or political changes may play a role in your outcomes. <br /> This doesn't fix your problem regarding choosing a starting timepoint for controls, but I wonder if it makes more sense to look at your outcomes as time-to-event. In other words, do companies experiencing security breach change leadership sooner? I guess I don't know the significance of 1 year, maybe it is meaningful from a business perspective to look at it this way.
 
 [Back to Top](#table-of-contents)
 
@@ -50,7 +51,8 @@ Naji Ayyash | High air quality and its impact on physical and mental health
 *"Control"* | 789 counties with air quality in the bottom 80% of counties (good air day 91.23% of the time or more)
 *Covariates* | 11 covariates from CHR 2020 and 2021, Outcomes from CHR 2023. **You need to verify the years when the data were actually gathered, not the years when they were included in CHR. To do so, you need to look at each year's Analytic Data Documentation. The 2023 report shows Poor Mental Health Days [obtained from BRFSS in 2020](https://www.countyhealthrankings.org/health-data/county-health-rankings-measures). The Years of potential life lost measure in 2023 actually is derived from data in 2018-2020. So your covariates need to (at the least) be measured no earlier than 2018, and ideally not after 2017, and so that might require data reported even earlier than in CHR 2020 or 2021.**
 *Data Source* | County Health Rankings in various years and EPA Air Quality System for 2018
-*Also...* | -
+*Also...* | I've spoken to Naji, and he's done what we want him to do, but just needs to make that clearer in the later versions of this work.
+*Leila's <br /> Comments* | Agree with Dr. Love that you want to be sure that the covariates to be included in your PS model were collected before your outcomes and at the same time or (perhaps ideally) before your exposures. Would it help to use the older county health rankings reports? Otherwise you might consider dropping the YPLL variable and looking for a different physical outcome measure like poor physical health days that came from 2020 data. Otherwise, I don't think it would hurt to include as many variables as you can in your PS model within the constraints of timing, since I think you could come up with arguments for how most of these could be connected.
 
 [Back to Top](#table-of-contents)
 
@@ -68,6 +70,9 @@ John Barron | Lung Transplant Survival in Veterans of the US Armed Forces
 *Covariates* | More than two dozen, gathered in a table 1 nicely. **You should probably adjust the labels on EducationStatus from 1-6 to something more meaningful.**
 *Data Source* | UNOS via CCF
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
+*Leila's <br /> Comments* | Really excellent proposal. I think your covariates are good, not sure what else is available in UNOS but if available it would be helpful to have information on the indication/underlying disease. Consider in particular that the VA will not have any patients with CF, whereas patients with CF might make up a reasonably large proportion of your non-veteran group especially in the younger age range. I actually would exclude CF altogether if you can identify those patients.
+You may also want to include the state or center if available, though perhaps more relevant to the outcome than exposure. <br />
+For the 2 borderline variables you mention double lung and ischemic time, I think I would err on the side of including in your outcome model only and not in your ps model. <br /> Might be too much for the class assignment, but you mentioned several other outcomes that might be interesting to describe if you plan to publish (which you should). You could also consider rehospitalizations or total days of hospitalization following transplant.
 
 [Back to Top](#table-of-contents)
 
@@ -85,6 +90,7 @@ Seth Bauer | Vasopressor Cessation Order in the De-escalation Phase of Septic Sh
 *Covariates* | More than two dozen. **As Seth has already figured out, the unique categorical identifier for the hospital of admission with 31 categories isn't going to be a good thing to put in your propensity score.**
 *Data Source* | eICU-CRD via PhysioNet
 *Also...* | -
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -102,6 +108,7 @@ Chris Benson | Income inequality and Infant mortality in US counties
 *Covariates* | Outcome from CHR 2023, exposure and 8 covariates taken from CHR 2021 report. **You need to verify the years when the data were actually gathered, not the years when they were included in CHR. The 2023 CHR report shows [Infant Mortality describing data from 2014-2020](https://www.countyhealthrankings.org/health-data/county-health-rankings-measures). The 2021 CHR report (see <https://www.countyhealthrankings.org/sites/default/files/media/document/2021%20Analytic%20Documentation.pdf>) measures income inequality based on data from the American Community Survey in 2015-2019. So that's a problem, right? You either need a new outcome, or you need to find covariates based on a long, long time ago, and CHR data only go back to 2010 - see <https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/national-data-documentation-2010-2019>.**
 *Data Source* | County Health Rankings in various years
 *Also...* | 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -118,7 +125,8 @@ Jesse Chen | Hypertension and Non-Alcoholic Fatty Liver Disease (NAFLD) Among No
 *"Control"* | 1215 non-obese subjects without hypertension as defined in the "treated" group
 *Covariates* | Survey weights, Sex, BMI, Albumin, Serum Creatinine, LDL and HDL, Alkaline Phosphatase, Blood Urea Nitrogen, Triglyceride, Aspartate Transaminase, Globulin, Alanine Transaminase, Uric Acid, Total Cholesterol. (**except you cannot include both Total Cholesterol and the set of measurements (HDL/LDL/Triglycerides) that make up total cholesterol.) Also, while you are welcome to include the weights as a covariate in your propensity score in Project A, I do not want you to incorporate the survey weights into your models - that will leave you with a difficult-to-manage project. If you want to publish the work later, then work out how to weight in this way after matching after the class.**
 *Data Source* | NHANES data in 2015-2016 and 2017-2018
-*Also...* | 
+*Also...* | -
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -135,6 +143,7 @@ Sid Dugar | Do early echocardiograms during sepsis and septic change outcomes?
 *"Control"* | 1702 subjects where no echocardiogram was performed during the entire hospitalization after admission to MICU with sepsis or septic shock
 *Covariates* | Age, Sex, APACHE III Score, History of heart failure, cirrhosis, diabetes and Malignancy, maximum lactate level in first 24 hours of sepsis or septic shock, maximum vasopressor dosage in first 24 hours, presence of bacteremia, Race and Ethnicity, Primary Care Physician (yes/no)
 *Data Source* | CC Sepsis Registry
+*Also...* | -
 *Leila's <br /> Comments* | Can you clarify whether this is TTE only or could be TEE? Also are these all formal echo performed by a tech and read by cardiology or bedside by provider as well? I think there are a lot more of the sepsis bundle components that you will want to include like fluid resuscitation, early antibiotics, labs drawn in time, etc. <br /> My main concern as mentioned above is the missing variables that would be considered important for sepsis related outcomes. Do you have data available regarding whether the 1-hour sepsis bundle components were completed? If not it's ok but would recognize this as a limitation. <br /> Do you have data regarding whether patients were ventilated or not? <br /> Your background makes it seem as if you doubt that echo should make a difference. This is fine, but would clarify if your hypothesis is that echo does not have a benefit on mortality. <br /> Could you clarify if your bacteremia variable is bacteremia identified within 24 hours of ICU admission? <br /> If you have information on history of other cardiac conditions other than HF this might be worth including. For example if a patient has a history of CAD, they might have been more likely to get an echo performed but not necessarily because of sepsis
 
 [Back to Top](#table-of-contents)
@@ -153,6 +162,7 @@ Ava Fan | Imaging extranodal extension (iENE) as a prognostic factor in HPV+ oro
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -170,6 +180,7 @@ Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -187,6 +198,7 @@ Marie Masotya | Asthma and School Absenteeism in Children on Medicaid in Cuyahog
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -204,6 +216,7 @@ Morgan McLoughlin | Maternal Depression and Parent-Training Participation and En
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -221,6 +234,7 @@ Lydia Mitchell | Health insurance and premature death in US adults
 *Covariates* | 
 *Data Source* | 
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -238,6 +252,7 @@ Hala Nas | Acute Respiratory Failure and Pneumothorax in Bronchoscopic Lung Volu
 *Covariates* | 
 *Data Source* | 
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -255,6 +270,7 @@ Anya Nazarenko | Are men less likely to seek mental health treatment services?
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -272,6 +288,7 @@ Anthony Orsino | High School Drug Distribution and Social Health
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -289,6 +306,7 @@ Aman Pande | Interstitial lung diseases and immunosuppressant medications
 *Covariates* | 
 *Data Source* | 
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -306,6 +324,7 @@ Justin Robinson | Biventricular Repair across the Spectrum of Atrioventricular S
 *Covariates* | 
 *Data Source* | 
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though.
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -323,6 +342,7 @@ Sam Rodgers-Melnick | Effectiveness of Music Therapy (MT) on Length of Stay and 
 *Covariates* | 
 *Data Source* | 
 *Also...* | 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -340,6 +360,7 @@ Miza Salim Hammoud | Gender-Specific Quality of Life in Adults with Congenital H
 *Covariates* | Age, Race, Hispanic ethnicity, Hospital Length of Stay, Diagnosis (**are these yes/no or a multi-categorical set of options?**), Cardiopulmonary bypass time, BMI (**and also BMI categories?**), **Area Deprivation Index state deciles and national percentiles?** Comorbidities, Insurance Type (**may need to collapse**), Family History of CAD, Ejection fraction at discharge, Pre-operative NY Heart Functional Classification (I-IV).
 *Data Source* | CC Retrospective Chart Review involving patients from January 2022 to (**through?**) September 2023 (**STS CHSD registry role?**)
 *Also...* | **Where's your description of propensity matching in the Methods?** This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though. 
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -357,6 +378,7 @@ Akhil S.G. | Telemedicine vs. Closing Time
 *Covariates* | *Patient* information: age, sex, insurance, distance from hospital in miles (**calculated from zipcodes? how do you have this if data are de-identified?**), race, language (**will you have meaningful variation?**) <br /> *Encounter* information: new/recurring visit, appointment scheduled time, duration of patient visit, diagnosis code (**ICD-10? Won't there be multiple codes?**) <br /> *Provider* information: type (nurse, physician, PA), clinician gender (M/F), experience (**via GradYear?**) specialty (**2 categories?**) and clinic ID (unique for each of 80 clinicians - this is **not** something you'll include in a propensity score.) **The thing that is definitely missing is any sense of how the provider feels about technology.**
 *Data Source* | A little vague. These are data from some EHR in the Western US on about 80 care providers (**not all physicians**) in a Department of Cardiology over a one-month period (February 2021.)
 *Also...* | This wasn't actually the time for the Project Update. That comes on April 2. I'm grateful for the effort, though. **Don't create null and alternative hypotheses - you're estimating an effect size here, and that should be the focus**.
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -374,6 +396,7 @@ Sriram Satyavolu | Food Insecurity and Depression Among U.S. Adults
 *Covariates* | 8 (age, sex, race, family poverty-to-income ratio, body mass index, marital status, educational attainment, and smoking status) are listed, **but there are many, many more in NHANES - a more appropriate list could certainly be much more inclusive.**
 *Data Source* | NHANES 2017-2020 (pre-pandemic)
 *Also...* | You should already have the data in R, if you're using NHANES data. **Do you need help in this regard?**. <br /> **In the methods section, you mention exploring potential effect modification by testing interaction terms. That's beyond the scope of this project. What I don't see is enough (or really any) detailed information about how you're going to use propensity score analyses.**
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
 
@@ -391,5 +414,6 @@ Karlo Toljan | Posterior reversible encephalopathy syndrome (PRES) and immunosup
 *Covariates* | Age, Sex, Race (**This will need to be collapsed, probably just into White vs. Other, and do you have Hispanic ethnicity as well?**), Hypertension, Diabetes, Tobacco Use, Obesity (**can this be actual BMI rather than just BMI >= 30?**), Transplant Receipient, Seizure (**during hospitalization - can this be a covariate?**), MRI Brain with Ischemic Stroke, MRI Brain with Hemorrhagic Stroke - **ideally, you'd like to keep your covariates as granular as possible**. **Is type of insurance available?**
 *Data Source* | EHR data forming a retrospective cohort of adults hospitalized at CC in 2008-2018 with a PRES diagnosis
 *Also...* | -
+*Leila's <br /> Comments* | 
 
 [Back to Top](#table-of-contents)
