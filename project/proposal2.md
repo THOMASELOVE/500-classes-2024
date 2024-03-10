@@ -130,12 +130,12 @@ Sid Dugar | Do early echocardiograms during sepsis and septic change outcomes?
 *Colleagues* | Yes, 1
 *Format* | Word/PDF
 *Research ?* | Does performing an echocardiogram early in the course of sepsis and septic shock alter hospital mortality?
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | 
+*Outcome* | (1) In-hospital mortality (binary), (2) Time in ICU
+*"Treated"* | 654 subjects where an echocardiogram was performed within 24 hours after admission to Medical ICU with sepsis or septic shock (**have I got this description of the "treated" and "control" groups right?**)
+*"Control"* | 1702 subjects where no echocardiogram was performed during the entire hospitalization after admission to MICU with sepsis or septic shock
+*Covariates* | Age, Sex, APACHE III Score, History of heart failure, cirrhosis, diabetes and Malignancy, maximum lactate level in first 24 hours of sepsis or septic shock, maximum vasopressor dosage in first 24 hours, presence of bacteremia, Race and Ethnicity, Primary Care Physician (yes/no)
+*Data Source* | CC Sepsis Registry
+*Leila's <br /> Comments* | Can you clarify whether this is TTE only or could be TEE? Also are these all formal echo performed by a tech and read by cardiology or bedside by provider as well? I think there are a lot more of the sepsis bundle components that you will want to include like fluid resuscitation, early antibiotics, labs drawn in time, etc. <br /> My main concern as mentioned above is the missing variables that would be considered important for sepsis related outcomes. Do you have data available regarding whether the 1-hour sepsis bundle components were completed? If not it's ok but would recognize this as a limitation. <br /> Do you have data regarding whether patients were ventilated or not? <br /> Your background makes it seem as if you doubt that echo should make a difference. This is fine, but would clarify if your hypothesis is that echo does not have a benefit on mortality. <br /> Could you clarify if your bacteremia variable is bacteremia identified within 24 hours of ICU admission? <br /> If you have information on history of other cardiac conditions other than HF this might be worth including. For example if a patient has a history of CAD, they might have been more likely to get an echo performed but not necessarily because of sepsis
 
 [Back to Top](#table-of-contents)
 
