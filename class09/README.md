@@ -16,6 +16,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 - OSIA presentations listed below
 - Discussion of Rosenbaum **Causal Inference** Chapter 8 (Replication, Resolution and Evidence Factors)
+- Note that you'll now find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
 
 ## Today's OSIA presentations
 
