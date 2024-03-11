@@ -17,7 +17,7 @@ Date | Start | Presenter | Title
 05-02 | 9:50 AM | -- | *Ten minute break*
 05-02 | 10:00 AM | Sam Rodgers-Melnick | Effectiveness of Music Therapy on Length of Stay and Opioid Utilization
 05-02 | 10:25 AM | John Barron | Lung Transplant Survival in Veterans of the US Armed Forces
-05-02 | 10:50 AM | Dr. Love | Ten minute wrap up.
+05-02 | 10:50 AM | Dr. Love | Ten minute wrap up. [Slides for this (pdf)](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides15.pdf).
 
 - *Planned Absences*: Hala Nas, Justin Robinson, Sriram Satyavolu
 
