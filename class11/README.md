@@ -17,6 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 - OSIA presentations listed below
 - Discussion of Rosenbaum **Causal Inference** (remainder of the book)
 - Discussion of the Project Updates
+- A reminder that you'll find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
 
 ## Today's OSIA presentations
 
