@@ -6,6 +6,8 @@ Today's class begins at 9 AM in WRB 1217.
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `500-help` at `case` dot `edu`
 
+## Today's Slides
+
 Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 09 | 2024-03-21 | **[Slides 09](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides09.pdf)** | **[Code 09](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
