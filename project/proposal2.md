@@ -2,7 +2,7 @@
 
 ## General Notes
 
-- Please check Canvas for additional feedback from Leila and myself.
+- Canvas may or many not contain additional feedback from Leila and myself at this point.
 - In many cases, I have adjusted your title to improve it, and/or to meet the 80 character limit. Use this version of the title, or another I will like better that remains at a maximum of 80 characters.
 - The next project-related deliverable is the [project update](https://thomaselove.github.io/500-2024/proj500.html#the-project-update) due Tuesday 2024-04-02 at 9 AM to Canvas. Some of you did an update as part of the second draft, for which I am grateful, but you'll need to submit a revised one by the April deadline.
 - Don't miss the [analysis tips](https://thomaselove.github.io/500-2024/proj500.html#analysis-tips) within our project instructions.
@@ -154,13 +154,13 @@ Ava Fan | Imaging extranodal extension (iENE) as a prognostic factor in HPV+ oro
 *Colleagues* | Yes, 2
 *Format* | Word/PDF
 *Research ?* | 1. Does the presence of iENE lead to increased rates of disease recurrence? <br /> 2. Does the presence of iENE lead to worse overall survival?
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
-*Data Source* | 
-*Also...* | In terms of whether or not to treat an outcome based on time as binary or time-to-event, that really depends as much as anything on how much information you have available to you about times and (in particular) censoring. In this case, I'm not seeing an especially problematic issue with keeping this as binary yet, but maybe when I learn a bit more, I might have a different reaction.
-*Leila's <br /> Comments* | Your research questions don't seem to match your outcomes exactly. Are you interested in disease recurrence or distant mets in addition to overall survival? Also, I'm more used to seeing the outcome as all-cause mortality rather than survival, but maybe this is something in oncology literature I'm not familiar with. Any way for you to get some additional baseline data to include in your ps model? Will review more and let you know if I have additional comments, good work.- Including distant mets as a time to event outcome seems odd to me since I usually consider survival analysis more applicable to situations in which the outcome is expected to occur for most or all patients eventually. Would defer to Dr. Love on this approach vs logistic regression (**see my comments in Also above**).  <br /> Can you clarify whether the iENE negative patients are also ENE negative? I would expect yes given that ENE patients probably have more advanced disease but wanted to confirm. <br /> Do you have the information on whether the iENE was identified by CT vs MRI? I would expect that MRI would be more sensitive and thus may potentially pick up patients earlier.
+*Outcome* | 1. Overall survival (time to event) and 2. Distant metastasis (time to event)
+*"Treated"* | 137 subjects who were iENE-negative
+*"Control"* | 284 subjects who were iENE-positive.
+*Covariates* | patient demographics (age, sex) and comoboridities (smoking history, and alcohol use status), disease characteristics (oropharynx subsite site, tumor stage, nodal stage). I don’t have other characteristics such as insurance status or zip code available to me in the data (**a shame**).
+*Data Source* | CC Head and Neck Cancer registry.
+*Also...* | In terms of whether or not to treat an outcome based on time as binary or time-to-event, that really depends as much as anything on how much information you have available to you about times and (in particular) censoring, related to your secondary outcome (distant mets.) How long are these people followed? What do you think?
+*Leila's <br /> Comments* | Your research questions don't seem to match your outcomes exactly. Are you interested in disease recurrence or distant mets in addition to overall survival? Also, I'm more used to seeing the outcome as all-cause mortality rather than survival, but maybe this is something in oncology literature I'm not familiar with. Any way for you to get some additional baseline data to include in your ps model? Will review more and let you know if I have additional comments, good work.- Including distant mets as a time to event outcome seems odd to me since I usually consider survival analysis more applicable to situations in which the outcome is expected to occur for most or all patients eventually. Would defer to Dr. Love on this approach vs logistic regression (**see my comments in Also above**).  <br /> Can you clarify whether the iENE negative patients are also ENE negative? I would expect yes given that ENE patients probably have more advanced disease but wanted to confirm. <br /> Do you have the information on whether the iENE was identified by CT vs MRI? I would expect that MRI would be more sensitive and thus may potentially pick up patients earlier. <br />
 - Do you have any data regarding other comorbidities? These may affect things like ability to tolerate or be offered treatment or likelihood of developing other complications. Chronic kidney, liver, heart disease would seem important at least.
 
 [Back to Top](#table-of-contents)
@@ -173,12 +173,12 @@ Lent Mantshonyane | The causal effect of tobacco smoking and biomass smoke on TB
 *Colleagues* | Yes, 3
 *Format* | Quarto (thanks!)
 *Research ?* | 1. What is the causal effect of tobacco smoking on TB disease? <br /> 2. What is the causal effect of exposure to biomass smoke through cooking on developing TB?
-*Outcome* | 
-*"Treated"* | 
-*"Control"* | 
-*Covariates* | 
+*Outcome* | Developed TB disease vs. were latently infected. (**I'm still not sure I understand this - it needs to be clearer.**)
+*"Treated"* | 239 subjects with smoking history = "Used to smoke but not currently smoking" or "Is actively smoking"
+*"Control"* | 2437 subjects with smoking history "Has never smoked"
+*Covariates* | 13 items from the survey that can be used are listed. All are categorical (and most binary) except age, weight and height. **Do not include BMI if you're including both weight and height**.
 *Data Source* | 
-*Also...* | 
+*Also...* | I really think you should simplify this plan for your Project, and simply **look at one or the other of your two planned exposures**. The problem is that each of them is such a small percentage of the cohort. I have written the treated and control groups above to describe what you've called your primary exposure of interest, although it was confusing because you mislabeled 1, 2 and 3 in section 1.8 (1 and 3 cannot both be non-smokers). Subjects are "index TB cases and their household members/contacts who consented and were enrolled in the Kawempe Community Health TB study between 2002 and 2012 in Kampala, Uganda. A contact/household member was defined as anyone who has spent at least 7 consecutive days with the index case patient in the same household in the preceding 2 weeks before the index TB patients diagnosis." <br /> "Participants were followed for 24 months at which point they were all additionally tested for TB infection using the tuberculin skin test."
 *Leila's <br /> Comments* | You describe several different cohorts in your data source. It seems that the LTBI outcome group screened positive at baseline. Is this the case for the TB disease/active TB group as well? In other words, are you excluding the patients that were negative at baseline from your study? And then if the only possible outcomes are TB infection or TB disease, are you also excluding the group who never developed infection (resistors)? <br /> For your exposure, was there no response option for currently smoking? Wouldn't you expect that some of the individuals in the do not smoke group actually do not/have never smoked? If so, it might be worth dropping this group since it may dilute the effect of the exposure. If there is a currently smoking group that isn't mentioned, I would include those. If you do plan to include the do not smoke group, perhaps you could drop the group for a stability analysis at least. <br /> For the biomass exposure, any idea about what the others group might include? How large is this group? Again, I would consider dropping perhaps depending on the size of the group or else doing a stability analysis without this group. <br /> You **definitely** don't want to include height and weight separately if you are including BMI. <br /> Do you have information on other comorbidities which could contribute to increased risk of developing active TB disease? These could include DM, renal disease, on immunosuppressants, chronic lung disease, malignancy. It's ok if not but might consider this a limitation.
 
 [Back to Top](#table-of-contents)
