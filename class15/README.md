@@ -21,3 +21,7 @@ Date | Start | Presenter | Title
 
 - *Planned Absences*: Hala Nas, Justin Robinson, Sriram Satyavolu
 
+## Reminders
+
+- Final Project Submissions are due to [Canvas](https://canvas.case.edu) at 9 AM on Monday 2023-05-06 from everyone.
+- When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
