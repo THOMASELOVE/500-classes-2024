@@ -12,11 +12,16 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 09 | 2024-03-21 | **[Slides 09](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides09.pdf)** | **[Code 09](https://github.com/THOMASELOVE/500-slides-2024/blob/main/500_slides09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Announcements
+
+1. All Project 2 proposal comments are found at <https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal2.md>. Please be sure you attend to these issues before submitting your Update on April 2.
+2. The Lab 4 sketch will be posted to our Shared Drive **by class time**.
+3. You'll now find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
+
 # Today's Agenda
 
-- OSIA presentations listed below
+- OSIA presentations
 - Discussion of Rosenbaum **Causal Inference** Chapter 8 (Replication, Resolution and Evidence Factors)
-- Note that you'll now find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
 
 ## Today's OSIA presentations
 
