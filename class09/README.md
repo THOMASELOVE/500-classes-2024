@@ -16,7 +16,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. All Project 2 proposal comments are found at <https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal2.md>. Please be sure you attend to these issues before submitting your Update on April 2.
 2. The Lab 4 sketch will be posted to our Shared Drive **by class time**.
-3. You'll now find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
+3. I updated the [OSIA second reader instructions](https://thomaselove.github.io/500-2024/osia.html#second-reader) (and also emailed that out) on 2024-03-12. 
+4. You'll now find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
 
 # Today's Agenda
 
