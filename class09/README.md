@@ -24,7 +24,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 - OSIA presentations
 - Discussion of Rosenbaum **Causal Inference** Chapter 8 (Replication, Resolution and Evidence Factors)
 
-## Today's OSIA presentations
+## Today's OSIA presentations (we hope to add one more)
 
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
