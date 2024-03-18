@@ -28,14 +28,13 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
-Sid Dugar | Jesse Chen | Lan P et al. 2019 [Utilization of echocardiography during septic shock was associated with a decreased 28-day mortality: a propensity score-matched analysis of the MIMIC-III database](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Lan_2019.pdf) *Annals of Translational Medicine*
 Hala Nas | Aman Pande | Wang Q et al. 2022 [Adverse Events Following Limited Resection versus Stereotactic Body Radiation Therapy for Early Stage Lung Cancer](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Wang_2022.pdf) *Annals American Thoracic Society*
 Sriram Satyavolu | Marie Masotya | Webbe JWH et al. 2022 [Outcomes in relation to early parenteral nutrition use in preterm neonates born between 30 and 33 weeks' gestation: a propensity score matched observational study](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Webbe_2022.pdf) (pdf includes supplementary materials now) *Arch Dis Child Fetal Neonatal Ed*
 
 # Next Class (Class 10: 2024-03-28)
 
-- The 13 First Readers (listed below) for OSIA Video presentations need to submit (a) their 12-18 slides and (b) video recording (.mp4, not to exceed 12 minutes) to our **Shared Drive** by 9 AM on 2024-03-28.
-    - Aman Pande, Anthony Orsino, Ava Fan, Chris Benson, Jesse Chen, Justin Robinson, Lent Mantshonyane, Lydia Mitchell, Marie Masotya, Miza Salim Hammoud, Naji Ayyash, Sam Rodgers-Melnick and Sara Alqahtani.
+- The First Readers (listed below) for OSIA Video presentations need to submit (a) their 12-18 slides and (b) video recording (.mp4, not to exceed 12 minutes) to our **Shared Drive** by 9 AM on 2024-03-28.
+    - Aman Pande, Anthony Orsino, Ava Fan, Chris Benson, Jesse Chen, Justin Robinson, Lent Mantshonyane, Lydia Mitchell, Marie Masotya, Miza Salim Hammoud, Naji Ayyash, Sam Rodgers-Melnick, Sara Alqahtani and Siddhath Dugar
 - We'll discuss Rosenbaum **Causal Inference** Chapter 9 (Uncertainty and Complexity)
 
 ## OSIA Live Presentations
