@@ -22,7 +22,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Today's Agenda
 
-- OSIA presentations
+- OSIA presentations (sorry there are only two today - couldn't be helped.)
 - Discussion of Lab 4, and in particular, the notion of a stability analysis
 - There's not much point to doing Rubin's Rule 3 if Rules 1 and 2 are working well, especially after weighting.
 - Discussion of Rosenbaum **Causal Inference** Chapter 8 (Replication, Resolution and Evidence Factors)
