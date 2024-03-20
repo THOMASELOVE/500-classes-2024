@@ -15,13 +15,16 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
 
 1. All Project 2 proposal comments are found at <https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/proposal2.md>. Please be sure you attend to these issues before submitting your Update on April 2.
-2. The Lab 4 sketch will be posted to our Shared Drive **by class time**.
-3. I updated the [OSIA second reader instructions](https://thomaselove.github.io/500-2024/osia.html#second-reader) (and also emailed that out) on 2024-03-12. 
-4. You'll now find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
+2. Office Hours on Wednesday 2024-03-27 will be from Noon to 1 PM. No change to the Monday 2024-03-25 5 PM schedule.
+3. The Lab 4 sketch will be posted to our Shared Drive **by class time**.
+4. I updated the [OSIA second reader instructions](https://thomaselove.github.io/500-2024/osia.html#second-reader) (and also emailed that out) on 2024-03-12. 
+5. You'll now find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
 
 # Today's Agenda
 
 - OSIA presentations
+- Discussion of Lab 4, and in particular, the notion of a stability analysis
+- There's not much point to doing Rubin's Rule 3 if Rules 1 and 2 are working well, especially after weighting.
 - Discussion of Rosenbaum **Causal Inference** Chapter 8 (Replication, Resolution and Evidence Factors)
 
 ## Today's OSIA presentations (we hope to add one more)
