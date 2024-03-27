@@ -13,7 +13,7 @@ Class | Date | Recording
 # Today's Agenda
 
 - OSIA presentations listed below
-- Discussion of Rosenbaum **Causal Inference** Chapter 9 (Uncertainty and Complexity)
+- - Discussion of Rosenbaum **Causal Inference** Chapter 8 (Replication, Resolution and Evidence Factors) postponed from last time.
 - Reminder: The [Project Update](https://thomaselove.github.io/500-2024/proj500.html#the-project-update) is due to Canvas on Tuesday 2024-04-02 at 9 AM.
 
 ## Today's OSIA presentations
