@@ -24,6 +24,17 @@ Morgan McLoughlin | Lydia Mitchell | Cho M and Lee CH 2022 [Childhood Maltreatme
 Karlo Toljan | Miza Salim Hammoud | Hersh C et al. 2020 [Effect of switching from natalizumab to moderate- vs high-efficacy DMT in clinical practice](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Hersh_2020.pdf), with [supplement](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Hersh_2020_supplement.pdf) *Neurology: Clinical Practice*
 John Barron | Chris Benson | Lehr CJ et al. 2020 [The impact of change in definition of increased-risk donors on survival after lung transplant](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Lehr_2020.pdf), with [commentary](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Lehr_2020_commentary.pdf) *J Thorac Cardiovasc Surg*
 
+## Comments on Lab 4 from Leila and myself (mostly Leila)
+
+- We are missing Lab 4 for **Chris**, **Lydia** and **Miza**, a revision of Lab 4 from **Morgan** and **Akhil** (and one from **Sriram** to include the unadjusted results), as well as Lab 3 from **Lydia**.
+    - Submit the Lab 4 work ASAP, like today. I have re-opened the Canvas links and they will stay open until 11:59 PM Sunday. Don't delay beyond that time, please. This is important to me.
+- Leila built a table of some key elements from Lab 4, which I've modified slightly and shared on our Shared Drive as *What did Spring 2024 500 students do in Lab 4?* in the Lab 4 folder.
+- Overall people are doing very well, and their interpretations and notes suggest they are much more comfortable at this point running these analyses
+- Bonus items that were nice to see included imputation and double robust analyses
+- The most common issue was regarding when to use a sensitivity analysis and what should be included in a stability analysis (hopefully our Class 9 discussion helped)
+- Several people omitted sensitivity/stability altogether. Don't do that, especially with an analysis using propensity matching.
+- Noted some issues with copying code from prior labs and examples, for example not changing the outcome model parameters and exponentiate argument for different outcome types. 
+
 # Next Class (Class 11: 2024-04-04)
 
 - The 13 Second Readers (listed below) for OSIA Video presentations need to submit (a) 2-4 slides and (b) video recording (.mp4, not to exceed 3 minutes) to our Shared Drive by 9 AM on 2024-04-04.
